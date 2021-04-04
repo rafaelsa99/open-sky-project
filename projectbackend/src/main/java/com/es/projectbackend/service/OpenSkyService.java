@@ -24,7 +24,7 @@ public class OpenSkyService {
         long unixTime = Instant.now().getEpochSecond() - 86400;
         long hourBeforTime = unixTime - 3600;
         RestTemplate restTemplate = new RestTemplate();
-        //ResponseEntity<List<FlightData>> response = restTemplate.exchange("https://opensky-network.org/api/flights/arrival?airport=EGLL&begin=1517227200&end=1517230800", HttpMethod.GET, null, new ParameterizedTypeReference<List<FlightData>>() {});
+        //ResponseEntity<List<Flight>> response = restTemplate.exchange("https://opensky-network.org/api/flights/arrival?airport=EGLL&begin=1517227200&end=1517230800", HttpMethod.GET, null, new ParameterizedTypeReference<List<Flight>>() {});
         String url = "https://opensky-network.org/api/flights/arrival?airport=KLAX&begin=" + hourBeforTime + "&end=" + unixTime;
         ResponseEntity<List<Flight>> response = restTemplate.exchange(url, HttpMethod.GET, null, new ParameterizedTypeReference<List<Flight>>() {});
         flightRepository.saveAll(response.getBody());
