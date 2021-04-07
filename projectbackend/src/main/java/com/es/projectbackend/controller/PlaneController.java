@@ -1,6 +1,7 @@
 package com.es.projectbackend.controller;
 
 
+
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.CrossOrigin;
 import org.springframework.web.bind.annotation.GetMapping;
@@ -16,9 +17,16 @@ import com.google.gson.Gson;
 public class PlaneController {
 	@Autowired
 	private OpenSkyService openSkyService;
+	
 	@GetMapping("/planes")
 	public String getAllPlanes(){
 		String planes = new Gson().toJson(openSkyService.getAllPlanes());
 		return planes;
+	}	
+	
+	@GetMapping("/history")
+	public String getHistory(){
+		String history = new Gson().toJson(openSkyService.getHistory());
+		return history;
 	}	
 }

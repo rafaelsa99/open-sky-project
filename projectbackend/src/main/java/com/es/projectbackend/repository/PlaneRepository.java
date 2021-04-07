@@ -6,6 +6,6 @@ import org.springframework.stereotype.Repository;
 import com.es.projectbackend.model.Plane;
 
 @Repository
-public interface PlaneRepository extends JpaRepository<Plane, Long>{
+public interface PlaneRepository extends JpaRepository<Plane, String>{
 
 }

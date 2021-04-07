@@ -1,13 +1,10 @@
 package com.es.projectbackend.model;
 
-import java.util.Arrays;
-
 import javax.persistence.Column;
 import javax.persistence.Entity;
-import javax.persistence.GeneratedValue;
-import javax.persistence.GenerationType;
 import javax.persistence.Id;
 import javax.persistence.Table;
+import javax.persistence.Transient;
 
 import com.fasterxml.jackson.annotation.JsonFormat;
 
@@ -22,7 +19,7 @@ public class Plane {
 	private String callsign; // Callsign of the vehicle (8 chars). Can be null if no callsign has been received.
 	@Column(name = "origin_country")
 	private String origin_country; // Country name inferred from the ICAO 24-bit address.
-
+	@Transient
 	private Double time_position; // Unix timestamp (seconds) for the last position update. Can be null if no position report was received by OpenSky within the past 15s.
 	@Column(name = "last_contact")
 	private Double last_contact; // Unix timestamp (seconds) for the last update in general. This field is updated for any new, valid message received from the transponder.
@@ -32,23 +29,23 @@ public class Plane {
 	private Double latitude; // WGS-84 latitude in decimal degrees. Can be null.
 	@Column(name = "baro_altitude")
 	private Double baro_altitude; // Barometric altitude in meters. Can be null.
-	@Column(name = "on_ground")
+	@Transient
 	private boolean on_ground; // Boolean value which indicates if the position was retrieved from a surface position report.
 	@Column(name = "velocity")
 	private Double velocity; // Velocity over ground in m/s. Can be null.
-	@Column(name = "true_track")
+	@Transient
 	private Double true_track; // True track in decimal degrees clockwise from north (north=0°). Can be null.
-	@Column(name = "vertical_rate")
+	@Transient
 	private Double vertical_rate; // Vertical rate in m/s. A positive value indicates that the airplane is climbing, a negative value indicates that it descends. Can be null.
-
+	@Transient
 	private int[] sensors; // IDs of the receivers which contributed to this state vector. Is null if no filtering for sensor was used in the request.
 	@Column(name = "geo_altitude")
 	private Double geo_altitude; // Geometric altitude in meters. Can be null.
-
+	@Transient
 	private String squawk; // The transponder code aka Squawk. Can be null.
-	@Column(name = "spi")
+	@Transient
 	private boolean spi; // Whether flight status indicates special purpose indicator.
-
+	@Transient
 	private int position_source; // Origin of this state’s position: 0 = ADS-B, 1 = ASTERIX, 2 = MLAT
 
 	public String getIcao24() {
