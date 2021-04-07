@@ -1,9 +1,8 @@
 import './App.css';
-import ListFlightComponent from './ListFlightComponent';
-
+import ListPlaneComponent from './ListPlaneComponent';
 function App() {
   return (
-    <ListFlightComponent />
+    <ListPlaneComponent />
   );
 }
 
