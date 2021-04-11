@@ -14,10 +14,10 @@ function Nav() {
 
     return (
         <nav>
-            <h3>OpenSky</h3>
+            <h3>LARadar</h3>
             <ul className="nav-links"> 
                 
-            <Link style={navStyle} to="/">Home</Link>
+            <Link style={navStyle} to="/">Live</Link>
                 
                 
             <Link style={navStyle} to="/historic">Historic</Link>

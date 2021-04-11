@@ -21,17 +21,17 @@ public class Plane {
 	private String origin_country; // Country name inferred from the ICAO 24-bit address.
 	@Transient
 	private Double time_position; // Unix timestamp (seconds) for the last position update. Can be null if no position report was received by OpenSky within the past 15s.
-	@Column(name = "last_contact")
+	@Transient
 	private Double last_contact; // Unix timestamp (seconds) for the last update in general. This field is updated for any new, valid message received from the transponder.
-	@Column(name = "longitude")
+	@Transient
 	private Double longitude; // WGS-84 longitude in decimal degrees. Can be null.
-	@Column(name = "latitude")
+	@Transient
 	private Double latitude; // WGS-84 latitude in decimal degrees. Can be null.
-	@Column(name = "baro_altitude")
+	@Transient
 	private Double baro_altitude; // Barometric altitude in meters. Can be null.
 	@Transient
 	private boolean on_ground; // Boolean value which indicates if the position was retrieved from a surface position report.
-	@Column(name = "velocity")
+	@Transient
 	private Double velocity; // Velocity over ground in m/s. Can be null.
 	@Transient
 	private Double true_track; // True track in decimal degrees clockwise from north (north=0°). Can be null.

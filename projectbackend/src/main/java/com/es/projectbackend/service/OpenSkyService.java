@@ -31,7 +31,7 @@ public class OpenSkyService {
 		RestTemplate restTemplate = new RestTemplate();
         States openSkyStates = restTemplate.getForObject(url, States.class);
         planes = openSkyStates.getStates();
-        planeRepository.saveAll(openSkyStates.getStates());
+        planeRepository.saveAll(openSkyStates.getStatesWithAltitude());
     }
 	
 	public List<Plane> getAllPlanes(){
