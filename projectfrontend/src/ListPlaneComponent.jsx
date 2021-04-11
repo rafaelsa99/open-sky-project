@@ -2,17 +2,29 @@ import ReactMapGL from 'react-map-gl';
 import {useState} from 'react';
 import React, { Component }from 'react';
 import FlightService from './PlaneService';
-    
+import {Marker} from 'react-map-gl';
+
+    function Map(Component){
+        return function WrappedComponent(props){
+        const [viewport, setViewport] = useState({
+            latitude: 34.053691,
+            longitude:  -118.242766,
+            width: '100vw',
+            height: '100vh',
+            zoom: 10
+        });
+        return <Component {...props} viewport={[viewport, setViewport]} />;
+    }
+    }
+
     class ListPlaneComponent extends Component {
         intervalID;
         constructor(){
             super();
             this.state = {
-                planes :[],
-                history :[]
+                planes :[]
             }
-        }
-        
+        }   
     
         componentDidMount(){
             this.getData();
@@ -24,20 +36,36 @@ import FlightService from './PlaneService';
             FlightService.getPlanes().then((res) => {
                 this.setState({planes: res.data});
                 this.intervalID = setTimeout(this.getData.bind(this), 5000);
-               
             }
             
             ); 
-            FlightService.getHistory().then((res) => {
-                this.setState({history: res.data});
-            }
-            );
-        
         }
         render() {
+            const [viewport, setViewport] = this.props.viewport;
             return (
                 <div>
-                   
+                    <ReactMapGL 
+                    mapStyle={'mapbox://styles/mapbox/dark-v9'}
+                    mapboxApiAccessToken={
+                        "pk.eyJ1IjoidmVzdGVyciIsImEiOiJja25idHlzd2oxdjg4MnBwOXpldzRtazYzIn0.YuVQQPP_eM-SSCvbvB2QlA"
+                        }
+                    {...viewport}
+                    onViewportChange={viewport => {
+                        setViewport(viewport);
+                    }}
+                    >
+                    {
+                        this.state.planes.map(planes=> ( 
+                        <Marker 
+                            key={planes.callsign} 
+                            latitude={planes.latitude}
+                            longitude={planes.longitude}
+                        >
+                        <img src="./plane.svg" alt="Plane Icon"/>
+                        </Marker>
+                     ))} 
+                        
+                    </ReactMapGL>
                     <h1 className="text-center">List of Planes in Metropolitan LA</h1>
                     <p><b>Total of planes:</b> {this.state.planes.length}</p>
                     <div className="row">
@@ -73,4 +101,4 @@ import FlightService from './PlaneService';
         }
     }
     
-    export default ListPlaneComponent;
+    export default Map(ListPlaneComponent);

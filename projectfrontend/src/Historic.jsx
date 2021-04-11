@@ -6,7 +6,6 @@ class Historic extends Component {
     constructor(){
         super();
         this.state = {
-            planes :[],
             history :[]
         }
     }
@@ -14,17 +13,7 @@ class Historic extends Component {
     componentDidMount(){
         this.getData();
     }
-    componentWillUnmount() {
-        clearTimeout(this.intervalID);
-    }
     getData(){
-        FlightService.getPlanes().then((res) => {
-            this.setState({planes: res.data});
-            this.intervalID = setTimeout(this.getData.bind(this), 5000);
-           
-        }
-        
-        ); 
         FlightService.getHistory().then((res) => {
             this.setState({history: res.data});
         }
