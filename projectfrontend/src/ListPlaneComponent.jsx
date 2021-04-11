@@ -61,7 +61,9 @@ import {Marker} from 'react-map-gl';
                             latitude={planes.latitude}
                             longitude={planes.longitude}
                         >
-                        <img src="./plane.svg" alt="Plane Icon"/>
+                          <button class="marker-btn">
+                            <img src="/plane3.svg" alt="Plane Icon"/>
+                          </button>
                         </Marker>
                      ))} 
                         
