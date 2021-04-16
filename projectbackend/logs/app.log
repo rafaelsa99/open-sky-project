@@ -1,0 +1,14 @@
+[INFO ] 2021-04-16 17:46:30.831 [restartedMain] ProjectbackendApplication - Starting ProjectbackendApplication using Java 15.0.2 on DESKTOP-SGTOE57 with PID 22896 (C:\Users\rafas\OneDrive\Área de Trabalho\TP_ES\open-sky-project\projectbackend\target\classes started by rafas in C:\Users\rafas\OneDrive\Área de Trabalho\TP_ES\open-sky-project\projectbackend)
+[DEBUG] 2021-04-16 17:46:30.843 [restartedMain] ProjectbackendApplication - Running with Spring Boot v2.4.4, Spring v5.3.5
+[INFO ] 2021-04-16 17:46:30.844 [restartedMain] ProjectbackendApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2021-04-16 17:46:35.040 [restartedMain] ProjectbackendApplication - Started ProjectbackendApplication in 4.745 seconds (JVM running for 7.252)
+[INFO ] 2021-04-16 17:47:14.174 [http-nio-8080-exec-1] PlaneController - Open Sky Services - Get History
+[INFO ] 2021-04-16 17:48:59.275 [restartedMain] ProjectbackendApplication - Starting ProjectbackendApplication using Java 15.0.2 on DESKTOP-SGTOE57 with PID 24332 (C:\Users\rafas\OneDrive\Área de Trabalho\TP_ES\open-sky-project\projectbackend\target\classes started by rafas in C:\Users\rafas\OneDrive\Área de Trabalho\TP_ES\open-sky-project\projectbackend)
+[DEBUG] 2021-04-16 17:48:59.283 [restartedMain] ProjectbackendApplication - Running with Spring Boot v2.4.4, Spring v5.3.5
+[INFO ] 2021-04-16 17:48:59.284 [restartedMain] ProjectbackendApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2021-04-16 17:49:03.050 [restartedMain] ProjectbackendApplication - Started ProjectbackendApplication in 4.197 seconds (JVM running for 6.118)
+[INFO ] 2021-04-16 17:49:06.197 [http-nio-8080-exec-1] PlaneController - Open Sky Services - Get History
+[INFO ] 2021-04-16 17:49:15.860 [restartedMain] ProjectbackendApplication - Starting ProjectbackendApplication using Java 15.0.2 on DESKTOP-SGTOE57 with PID 24332 (C:\Users\rafas\OneDrive\Área de Trabalho\TP_ES\open-sky-project\projectbackend\target\classes started by rafas in C:\Users\rafas\OneDrive\Área de Trabalho\TP_ES\open-sky-project\projectbackend)
+[DEBUG] 2021-04-16 17:49:15.861 [restartedMain] ProjectbackendApplication - Running with Spring Boot v2.4.4, Spring v5.3.5
+[INFO ] 2021-04-16 17:49:15.862 [restartedMain] ProjectbackendApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2021-04-16 17:49:16.550 [restartedMain] ProjectbackendApplication - Started ProjectbackendApplication in 0.795 seconds (JVM running for 19.618)
