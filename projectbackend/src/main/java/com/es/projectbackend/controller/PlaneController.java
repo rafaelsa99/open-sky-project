@@ -24,12 +24,14 @@ public class PlaneController {
 	
 	@GetMapping("/planes")
 	public String getAllPlanes(){
+		logger.info("Request for live plane information");
 		String planes = new Gson().toJson(openSkyService.getAllPlanes());
 		return planes;
 	}	
 	
 	@GetMapping("/history")
 	public String getHistory(){
+		logger.info("Request for altitude history");
 		String history = new Gson().toJson(openSkyService.getHistory());
 		return history;
 	}	

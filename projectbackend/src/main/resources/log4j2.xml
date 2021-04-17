@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Configuration status="info" name="spring-boot-kafka-log" packages="com.devglan">
+<Configuration status="info" name="spring-boot-kafka-log" packages="com.es">
     <Appenders>
         <Kafka name="Kafka" topic="opensky">
             <PatternLayout pattern="%date %message"/>

@@ -12,3 +12,539 @@
 [DEBUG] 2021-04-16 17:49:15.861 [restartedMain] ProjectbackendApplication - Running with Spring Boot v2.4.4, Spring v5.3.5
 [INFO ] 2021-04-16 17:49:15.862 [restartedMain] ProjectbackendApplication - No active profile set, falling back to default profiles: default
 [INFO ] 2021-04-16 17:49:16.550 [restartedMain] ProjectbackendApplication - Started ProjectbackendApplication in 0.795 seconds (JVM running for 19.618)
+[INFO ] 2021-04-17 19:47:08.960 [restartedMain] ProjectbackendApplication - Starting ProjectbackendApplication using Java 15.0.2 on DESKTOP-SGTOE57 with PID 1648 (C:\Users\rafas\OneDrive\Área de Trabalho\TP_ES\open-sky-project\projectbackend\target\classes started by rafas in C:\Users\rafas\OneDrive\Área de Trabalho\TP_ES\open-sky-project\projectbackend)
+[DEBUG] 2021-04-17 19:47:08.972 [restartedMain] ProjectbackendApplication - Running with Spring Boot v2.4.4, Spring v5.3.5
+[INFO ] 2021-04-17 19:47:08.973 [restartedMain] ProjectbackendApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2021-04-17 19:48:18.375 [restartedMain] ProjectbackendApplication - Starting ProjectbackendApplication using Java 15.0.2 on DESKTOP-SGTOE57 with PID 16376 (C:\Users\rafas\OneDrive\Área de Trabalho\TP_ES\open-sky-project\projectbackend\target\classes started by rafas in C:\Users\rafas\OneDrive\Área de Trabalho\TP_ES\open-sky-project\projectbackend)
+[DEBUG] 2021-04-17 19:48:18.387 [restartedMain] ProjectbackendApplication - Running with Spring Boot v2.4.4, Spring v5.3.5
+[INFO ] 2021-04-17 19:48:18.388 [restartedMain] ProjectbackendApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2021-04-17 19:48:22.727 [scheduling-1] OpenSkyService - Calling External API
+[INFO ] 2021-04-17 19:48:22.744 [restartedMain] ProjectbackendApplication - Started ProjectbackendApplication in 4.956 seconds (JVM running for 6.763)
+[INFO ] 2021-04-17 19:48:28.815 [scheduling-1] OpenSkyService - Success on calling the API
+[INFO ] 2021-04-17 19:48:28.815 [scheduling-1] OpenSkyService - Updating information on 44 planes
+[INFO ] 2021-04-17 19:48:29.007 [scheduling-1] OpenSkyService - Returning the stored information of 114 planes from the database
+[INFO ] 2021-04-17 19:48:29.147 [scheduling-1] OpenSkyService - Returning the stored information of 151 planes from the database
+[INFO ] 2021-04-17 19:48:29.147 [scheduling-1] OpenSkyService - Updating the database: 37 new planes entering the region
+[INFO ] 2021-04-17 19:48:29.147 [scheduling-1] OpenSkyService - Calling External API
+[INFO ] 2021-04-17 19:48:50.611 [scheduling-1] OpenSkyService - Success on calling the API
+[INFO ] 2021-04-17 19:48:50.611 [scheduling-1] OpenSkyService - Updating information on 44 planes
+[INFO ] 2021-04-17 19:48:50.619 [scheduling-1] OpenSkyService - Returning the stored information of 151 planes from the database
+[INFO ] 2021-04-17 19:48:50.691 [scheduling-1] OpenSkyService - Returning the stored information of 153 planes from the database
+[INFO ] 2021-04-17 19:48:50.692 [scheduling-1] OpenSkyService - Updating the database: 2 new planes entering the region
+[INFO ] 2021-04-17 19:48:50.692 [scheduling-1] OpenSkyService - Calling External API
+[INFO ] 2021-04-17 19:48:55.394 [scheduling-1] OpenSkyService - Success on calling the API
+[INFO ] 2021-04-17 19:48:55.395 [scheduling-1] OpenSkyService - Updating information on 44 planes
+[INFO ] 2021-04-17 19:48:55.400 [scheduling-1] OpenSkyService - Returning the stored information of 153 planes from the database
+[INFO ] 2021-04-17 19:48:55.442 [scheduling-1] OpenSkyService - Returning the stored information of 153 planes from the database
+[INFO ] 2021-04-17 19:48:55.442 [scheduling-1] OpenSkyService - Updating the database: 0 new planes entering the region
+[INFO ] 2021-04-17 19:48:55.442 [scheduling-1] OpenSkyService - Calling External API
+[INFO ] 2021-04-17 19:49:17.812 [http-nio-8080-exec-1] PlaneController - Request for altitude history
+[INFO ] 2021-04-17 19:49:17.818 [http-nio-8080-exec-1] OpenSkyService - Returning the stored information of 153 planes from the database
+[INFO ] 2021-04-17 19:49:18.835 [scheduling-1] OpenSkyService - Success on calling the API
+[INFO ] 2021-04-17 19:49:18.836 [scheduling-1] OpenSkyService - Updating information on 43 planes
+[INFO ] 2021-04-17 19:49:18.841 [scheduling-1] OpenSkyService - Returning the stored information of 153 planes from the database
+[INFO ] 2021-04-17 19:49:18.953 [scheduling-1] OpenSkyService - Returning the stored information of 153 planes from the database
+[INFO ] 2021-04-17 19:49:18.954 [scheduling-1] OpenSkyService - Updating the database: 0 new planes entering the region
+[INFO ] 2021-04-17 19:49:18.954 [scheduling-1] OpenSkyService - Calling External API
+[INFO ] 2021-04-17 19:49:22.321 [scheduling-1] OpenSkyService - Success on calling the API
+[INFO ] 2021-04-17 19:49:22.321 [scheduling-1] OpenSkyService - Updating information on 44 planes
+[INFO ] 2021-04-17 19:49:22.326 [scheduling-1] OpenSkyService - Returning the stored information of 153 planes from the database
+[INFO ] 2021-04-17 19:49:22.381 [scheduling-1] OpenSkyService - Returning the stored information of 154 planes from the database
+[INFO ] 2021-04-17 19:49:22.381 [scheduling-1] OpenSkyService - Updating the database: 1 new planes entering the region
+[INFO ] 2021-04-17 19:49:22.381 [scheduling-1] OpenSkyService - Calling External API
+[INFO ] 2021-04-17 19:49:30.905 [http-nio-8080-exec-2] PlaneController - Request for live plane information
+[INFO ] 2021-04-17 19:49:30.906 [http-nio-8080-exec-2] OpenSkyService - Returning 44 planes for live information
+[INFO ] 2021-04-17 19:49:35.975 [http-nio-8080-exec-3] PlaneController - Request for live plane information
+[INFO ] 2021-04-17 19:49:35.976 [http-nio-8080-exec-3] OpenSkyService - Returning 44 planes for live information
+[INFO ] 2021-04-17 19:49:41.013 [http-nio-8080-exec-4] PlaneController - Request for live plane information
+[INFO ] 2021-04-17 19:49:41.013 [http-nio-8080-exec-4] OpenSkyService - Returning 44 planes for live information
+[INFO ] 2021-04-17 19:49:43.891 [scheduling-1] OpenSkyService - Success on calling the API
+[INFO ] 2021-04-17 19:49:43.891 [scheduling-1] OpenSkyService - Updating information on 45 planes
+[INFO ] 2021-04-17 19:49:43.896 [scheduling-1] OpenSkyService - Returning the stored information of 154 planes from the database
+[INFO ] 2021-04-17 19:49:43.956 [scheduling-1] OpenSkyService - Returning the stored information of 155 planes from the database
+[INFO ] 2021-04-17 19:49:43.956 [scheduling-1] OpenSkyService - Updating the database: 1 new planes entering the region
+[INFO ] 2021-04-17 19:49:43.957 [scheduling-1] OpenSkyService - Calling External API
+[INFO ] 2021-04-17 19:49:44.090 [scheduling-1] OpenSkyService - Success on calling the API
+[INFO ] 2021-04-17 19:49:44.090 [scheduling-1] OpenSkyService - Updating information on 45 planes
+[INFO ] 2021-04-17 19:49:44.094 [scheduling-1] OpenSkyService - Returning the stored information of 155 planes from the database
+[INFO ] 2021-04-17 19:49:44.129 [scheduling-1] OpenSkyService - Returning the stored information of 155 planes from the database
+[INFO ] 2021-04-17 19:49:44.129 [scheduling-1] OpenSkyService - Updating the database: 0 new planes entering the region
+[INFO ] 2021-04-17 19:49:44.129 [scheduling-1] OpenSkyService - Calling External API
+[INFO ] 2021-04-17 19:49:45.107 [scheduling-1] OpenSkyService - Success on calling the API
+[INFO ] 2021-04-17 19:49:45.107 [scheduling-1] OpenSkyService - Updating information on 45 planes
+[INFO ] 2021-04-17 19:49:45.112 [scheduling-1] OpenSkyService - Returning the stored information of 155 planes from the database
+[INFO ] 2021-04-17 19:49:45.141 [scheduling-1] OpenSkyService - Returning the stored information of 155 planes from the database
+[INFO ] 2021-04-17 19:49:45.141 [scheduling-1] OpenSkyService - Updating the database: 0 new planes entering the region
+[INFO ] 2021-04-17 19:49:45.141 [scheduling-1] OpenSkyService - Calling External API
+[INFO ] 2021-04-17 19:49:45.692 [scheduling-1] OpenSkyService - Success on calling the API
+[INFO ] 2021-04-17 19:49:45.693 [scheduling-1] OpenSkyService - Updating information on 45 planes
+[INFO ] 2021-04-17 19:49:45.697 [scheduling-1] OpenSkyService - Returning the stored information of 155 planes from the database
+[INFO ] 2021-04-17 19:49:45.726 [scheduling-1] OpenSkyService - Returning the stored information of 155 planes from the database
+[INFO ] 2021-04-17 19:49:45.726 [scheduling-1] OpenSkyService - Updating the database: 0 new planes entering the region
+[INFO ] 2021-04-17 19:49:45.726 [scheduling-1] OpenSkyService - Calling External API
+[INFO ] 2021-04-17 19:49:46.036 [http-nio-8080-exec-5] PlaneController - Request for live plane information
+[INFO ] 2021-04-17 19:49:46.036 [http-nio-8080-exec-5] OpenSkyService - Returning 45 planes for live information
+[INFO ] 2021-04-17 19:49:46.404 [scheduling-1] OpenSkyService - Success on calling the API
+[INFO ] 2021-04-17 19:49:46.404 [scheduling-1] OpenSkyService - Updating information on 45 planes
+[INFO ] 2021-04-17 19:49:46.408 [scheduling-1] OpenSkyService - Returning the stored information of 155 planes from the database
+[INFO ] 2021-04-17 19:49:46.440 [scheduling-1] OpenSkyService - Returning the stored information of 155 planes from the database
+[INFO ] 2021-04-17 19:49:46.440 [scheduling-1] OpenSkyService - Updating the database: 0 new planes entering the region
+[INFO ] 2021-04-17 19:49:46.440 [scheduling-1] OpenSkyService - Calling External API
+[INFO ] 2021-04-17 19:49:47.295 [scheduling-1] OpenSkyService - Success on calling the API
+[INFO ] 2021-04-17 19:49:47.296 [scheduling-1] OpenSkyService - Updating information on 45 planes
+[INFO ] 2021-04-17 19:49:47.301 [scheduling-1] OpenSkyService - Returning the stored information of 155 planes from the database
+[INFO ] 2021-04-17 19:49:47.331 [scheduling-1] OpenSkyService - Returning the stored information of 155 planes from the database
+[INFO ] 2021-04-17 19:49:47.331 [scheduling-1] OpenSkyService - Updating the database: 0 new planes entering the region
+[INFO ] 2021-04-17 19:49:47.331 [scheduling-1] OpenSkyService - Calling External API
+[INFO ] 2021-04-17 19:49:51.090 [http-nio-8080-exec-6] PlaneController - Request for live plane information
+[INFO ] 2021-04-17 19:49:51.090 [http-nio-8080-exec-6] OpenSkyService - Returning 45 planes for live information
+[INFO ] 2021-04-17 19:49:56.129 [http-nio-8080-exec-7] PlaneController - Request for live plane information
+[INFO ] 2021-04-17 19:49:56.130 [http-nio-8080-exec-7] OpenSkyService - Returning 45 planes for live information
+[INFO ] 2021-04-17 19:50:01.160 [http-nio-8080-exec-8] PlaneController - Request for live plane information
+[INFO ] 2021-04-17 19:50:01.160 [http-nio-8080-exec-8] OpenSkyService - Returning 45 planes for live information
+[INFO ] 2021-04-17 19:50:06.190 [http-nio-8080-exec-9] PlaneController - Request for live plane information
+[INFO ] 2021-04-17 19:50:06.191 [http-nio-8080-exec-9] OpenSkyService - Returning 45 planes for live information
+[INFO ] 2021-04-17 19:50:07.928 [scheduling-1] OpenSkyService - Success on calling the API
+[INFO ] 2021-04-17 19:50:07.928 [scheduling-1] OpenSkyService - Updating information on 44 planes
+[INFO ] 2021-04-17 19:50:07.933 [scheduling-1] OpenSkyService - Returning the stored information of 155 planes from the database
+[INFO ] 2021-04-17 19:50:07.980 [scheduling-1] OpenSkyService - Returning the stored information of 157 planes from the database
+[INFO ] 2021-04-17 19:50:07.980 [scheduling-1] OpenSkyService - Updating the database: 2 new planes entering the region
+[INFO ] 2021-04-17 19:50:07.980 [scheduling-1] OpenSkyService - Calling External API
+[INFO ] 2021-04-17 19:50:11.220 [http-nio-8080-exec-10] PlaneController - Request for live plane information
+[INFO ] 2021-04-17 19:50:11.220 [http-nio-8080-exec-10] OpenSkyService - Returning 44 planes for live information
+[INFO ] 2021-04-17 19:50:11.543 [scheduling-1] OpenSkyService - Success on calling the API
+[INFO ] 2021-04-17 19:50:11.543 [scheduling-1] OpenSkyService - Updating information on 43 planes
+[INFO ] 2021-04-17 19:50:11.547 [scheduling-1] OpenSkyService - Returning the stored information of 157 planes from the database
+[INFO ] 2021-04-17 19:50:11.595 [scheduling-1] OpenSkyService - Returning the stored information of 157 planes from the database
+[INFO ] 2021-04-17 19:50:11.595 [scheduling-1] OpenSkyService - Updating the database: 0 new planes entering the region
+[INFO ] 2021-04-17 19:50:11.596 [scheduling-1] OpenSkyService - Calling External API
+[INFO ] 2021-04-17 19:50:12.971 [scheduling-1] OpenSkyService - Success on calling the API
+[INFO ] 2021-04-17 19:50:12.971 [scheduling-1] OpenSkyService - Updating information on 43 planes
+[INFO ] 2021-04-17 19:50:12.975 [scheduling-1] OpenSkyService - Returning the stored information of 157 planes from the database
+[INFO ] 2021-04-17 19:50:13.004 [scheduling-1] OpenSkyService - Returning the stored information of 157 planes from the database
+[INFO ] 2021-04-17 19:50:13.005 [scheduling-1] OpenSkyService - Updating the database: 0 new planes entering the region
+[INFO ] 2021-04-17 19:50:13.005 [scheduling-1] OpenSkyService - Calling External API
+[INFO ] 2021-04-17 19:50:13.619 [scheduling-1] OpenSkyService - Success on calling the API
+[INFO ] 2021-04-17 19:50:13.619 [scheduling-1] OpenSkyService - Updating information on 43 planes
+[INFO ] 2021-04-17 19:50:13.624 [scheduling-1] OpenSkyService - Returning the stored information of 157 planes from the database
+[INFO ] 2021-04-17 19:50:13.648 [scheduling-1] OpenSkyService - Returning the stored information of 157 planes from the database
+[INFO ] 2021-04-17 19:50:13.648 [scheduling-1] OpenSkyService - Updating the database: 0 new planes entering the region
+[INFO ] 2021-04-17 19:50:13.648 [scheduling-1] OpenSkyService - Calling External API
+[INFO ] 2021-04-17 19:50:16.261 [http-nio-8080-exec-1] PlaneController - Request for live plane information
+[INFO ] 2021-04-17 19:50:16.261 [http-nio-8080-exec-1] OpenSkyService - Returning 43 planes for live information
+[INFO ] 2021-04-17 19:50:21.288 [http-nio-8080-exec-2] PlaneController - Request for live plane information
+[INFO ] 2021-04-17 19:50:21.289 [http-nio-8080-exec-2] OpenSkyService - Returning 43 planes for live information
+[INFO ] 2021-04-17 19:50:26.314 [http-nio-8080-exec-3] PlaneController - Request for live plane information
+[INFO ] 2021-04-17 19:50:26.315 [http-nio-8080-exec-3] OpenSkyService - Returning 43 planes for live information
+[INFO ] 2021-04-17 19:50:31.336 [http-nio-8080-exec-4] PlaneController - Request for live plane information
+[INFO ] 2021-04-17 19:50:31.336 [http-nio-8080-exec-4] OpenSkyService - Returning 43 planes for live information
+[INFO ] 2021-04-17 19:50:31.504 [scheduling-1] OpenSkyService - Success on calling the API
+[INFO ] 2021-04-17 19:50:31.505 [scheduling-1] OpenSkyService - Updating information on 41 planes
+[INFO ] 2021-04-17 19:50:31.509 [scheduling-1] OpenSkyService - Returning the stored information of 157 planes from the database
+[INFO ] 2021-04-17 19:50:31.556 [scheduling-1] OpenSkyService - Returning the stored information of 158 planes from the database
+[INFO ] 2021-04-17 19:50:31.556 [scheduling-1] OpenSkyService - Updating the database: 1 new planes entering the region
+[INFO ] 2021-04-17 19:50:31.557 [scheduling-1] OpenSkyService - Calling External API
+[INFO ] 2021-04-17 19:50:36.367 [http-nio-8080-exec-5] PlaneController - Request for live plane information
+[INFO ] 2021-04-17 19:50:36.367 [http-nio-8080-exec-5] OpenSkyService - Returning 41 planes for live information
+[INFO ] 2021-04-17 19:50:39.693 [scheduling-1] OpenSkyService - Success on calling the API
+[INFO ] 2021-04-17 19:50:39.693 [scheduling-1] OpenSkyService - Updating information on 41 planes
+[INFO ] 2021-04-17 19:50:39.697 [scheduling-1] OpenSkyService - Returning the stored information of 158 planes from the database
+[INFO ] 2021-04-17 19:50:39.722 [scheduling-1] OpenSkyService - Returning the stored information of 158 planes from the database
+[INFO ] 2021-04-17 19:50:39.722 [scheduling-1] OpenSkyService - Updating the database: 0 new planes entering the region
+[INFO ] 2021-04-17 19:50:39.722 [scheduling-1] OpenSkyService - Calling External API
+[INFO ] 2021-04-17 19:50:41.408 [http-nio-8080-exec-6] PlaneController - Request for live plane information
+[INFO ] 2021-04-17 19:50:41.408 [http-nio-8080-exec-6] OpenSkyService - Returning 41 planes for live information
+[INFO ] 2021-04-17 19:50:46.440 [http-nio-8080-exec-7] PlaneController - Request for live plane information
+[INFO ] 2021-04-17 19:50:46.440 [http-nio-8080-exec-7] OpenSkyService - Returning 41 planes for live information
+[INFO ] 2021-04-17 19:50:51.472 [http-nio-8080-exec-8] PlaneController - Request for live plane information
+[INFO ] 2021-04-17 19:50:51.472 [http-nio-8080-exec-8] OpenSkyService - Returning 41 planes for live information
+[INFO ] 2021-04-17 19:50:56.054 [scheduling-1] OpenSkyService - Success on calling the API
+[INFO ] 2021-04-17 19:50:56.054 [scheduling-1] OpenSkyService - Updating information on 39 planes
+[INFO ] 2021-04-17 19:50:56.059 [scheduling-1] OpenSkyService - Returning the stored information of 158 planes from the database
+[INFO ] 2021-04-17 19:50:56.102 [scheduling-1] OpenSkyService - Returning the stored information of 159 planes from the database
+[INFO ] 2021-04-17 19:50:56.102 [scheduling-1] OpenSkyService - Updating the database: 1 new planes entering the region
+[INFO ] 2021-04-17 19:50:56.102 [scheduling-1] OpenSkyService - Calling External API
+[INFO ] 2021-04-17 19:50:56.496 [http-nio-8080-exec-9] PlaneController - Request for live plane information
+[INFO ] 2021-04-17 19:50:56.496 [http-nio-8080-exec-9] OpenSkyService - Returning 39 planes for live information
+[INFO ] 2021-04-17 19:51:01.526 [http-nio-8080-exec-10] PlaneController - Request for live plane information
+[INFO ] 2021-04-17 19:51:01.526 [http-nio-8080-exec-10] OpenSkyService - Returning 39 planes for live information
+[INFO ] 2021-04-17 19:51:02.088 [scheduling-1] OpenSkyService - Success on calling the API
+[INFO ] 2021-04-17 19:51:02.088 [scheduling-1] OpenSkyService - Updating information on 37 planes
+[INFO ] 2021-04-17 19:51:02.092 [scheduling-1] OpenSkyService - Returning the stored information of 159 planes from the database
+[INFO ] 2021-04-17 19:51:02.133 [scheduling-1] OpenSkyService - Returning the stored information of 159 planes from the database
+[INFO ] 2021-04-17 19:51:02.133 [scheduling-1] OpenSkyService - Updating the database: 0 new planes entering the region
+[INFO ] 2021-04-17 19:51:02.133 [scheduling-1] OpenSkyService - Calling External API
+[INFO ] 2021-04-17 19:51:06.557 [http-nio-8080-exec-1] PlaneController - Request for live plane information
+[INFO ] 2021-04-17 19:51:06.557 [http-nio-8080-exec-1] OpenSkyService - Returning 37 planes for live information
+[INFO ] 2021-04-17 19:51:11.600 [http-nio-8080-exec-2] PlaneController - Request for live plane information
+[INFO ] 2021-04-17 19:51:11.600 [http-nio-8080-exec-2] OpenSkyService - Returning 37 planes for live information
+[INFO ] 2021-04-17 19:51:15.539 [scheduling-1] OpenSkyService - Success on calling the API
+[INFO ] 2021-04-17 19:51:15.540 [scheduling-1] OpenSkyService - Updating information on 37 planes
+[INFO ] 2021-04-17 19:51:15.544 [scheduling-1] OpenSkyService - Returning the stored information of 159 planes from the database
+[INFO ] 2021-04-17 19:51:15.580 [scheduling-1] OpenSkyService - Returning the stored information of 160 planes from the database
+[INFO ] 2021-04-17 19:51:15.580 [scheduling-1] OpenSkyService - Updating the database: 1 new planes entering the region
+[INFO ] 2021-04-17 19:51:15.580 [scheduling-1] OpenSkyService - Calling External API
+[INFO ] 2021-04-17 19:51:16.637 [http-nio-8080-exec-3] PlaneController - Request for live plane information
+[INFO ] 2021-04-17 19:51:16.637 [http-nio-8080-exec-3] OpenSkyService - Returning 37 planes for live information
+[INFO ] 2021-04-17 19:51:16.740 [scheduling-1] OpenSkyService - Success on calling the API
+[INFO ] 2021-04-17 19:51:16.740 [scheduling-1] OpenSkyService - Updating information on 37 planes
+[INFO ] 2021-04-17 19:51:16.744 [scheduling-1] OpenSkyService - Returning the stored information of 160 planes from the database
+[INFO ] 2021-04-17 19:51:16.763 [scheduling-1] OpenSkyService - Returning the stored information of 160 planes from the database
+[INFO ] 2021-04-17 19:51:16.764 [scheduling-1] OpenSkyService - Updating the database: 0 new planes entering the region
+[INFO ] 2021-04-17 19:51:16.764 [scheduling-1] OpenSkyService - Calling External API
+[INFO ] 2021-04-17 19:51:17.619 [scheduling-1] OpenSkyService - Success on calling the API
+[INFO ] 2021-04-17 19:51:17.619 [scheduling-1] OpenSkyService - Updating information on 37 planes
+[INFO ] 2021-04-17 19:51:17.623 [scheduling-1] OpenSkyService - Returning the stored information of 160 planes from the database
+[INFO ] 2021-04-17 19:51:17.643 [scheduling-1] OpenSkyService - Returning the stored information of 160 planes from the database
+[INFO ] 2021-04-17 19:51:17.643 [scheduling-1] OpenSkyService - Updating the database: 0 new planes entering the region
+[INFO ] 2021-04-17 19:51:17.643 [scheduling-1] OpenSkyService - Calling External API
+[INFO ] 2021-04-17 19:51:19.057 [scheduling-1] OpenSkyService - Success on calling the API
+[INFO ] 2021-04-17 19:51:19.057 [scheduling-1] OpenSkyService - Updating information on 37 planes
+[INFO ] 2021-04-17 19:51:19.061 [scheduling-1] OpenSkyService - Returning the stored information of 160 planes from the database
+[INFO ] 2021-04-17 19:51:19.081 [scheduling-1] OpenSkyService - Returning the stored information of 160 planes from the database
+[INFO ] 2021-04-17 19:51:19.081 [scheduling-1] OpenSkyService - Updating the database: 0 new planes entering the region
+[INFO ] 2021-04-17 19:51:19.081 [scheduling-1] OpenSkyService - Calling External API
+[INFO ] 2021-04-17 19:51:21.677 [http-nio-8080-exec-4] PlaneController - Request for live plane information
+[INFO ] 2021-04-17 19:51:21.678 [http-nio-8080-exec-4] OpenSkyService - Returning 37 planes for live information
+[INFO ] 2021-04-17 19:51:26.696 [http-nio-8080-exec-5] PlaneController - Request for live plane information
+[INFO ] 2021-04-17 19:51:26.697 [http-nio-8080-exec-5] OpenSkyService - Returning 37 planes for live information
+[INFO ] 2021-04-17 19:51:31.729 [http-nio-8080-exec-6] PlaneController - Request for live plane information
+[INFO ] 2021-04-17 19:51:31.729 [http-nio-8080-exec-6] OpenSkyService - Returning 37 planes for live information
+[INFO ] 2021-04-17 19:51:36.773 [http-nio-8080-exec-7] PlaneController - Request for live plane information
+[INFO ] 2021-04-17 19:51:36.773 [http-nio-8080-exec-7] OpenSkyService - Returning 37 planes for live information
+[INFO ] 2021-04-17 19:51:39.690 [scheduling-1] OpenSkyService - Success on calling the API
+[INFO ] 2021-04-17 19:51:39.691 [scheduling-1] OpenSkyService - Updating information on 34 planes
+[INFO ] 2021-04-17 19:51:39.694 [scheduling-1] OpenSkyService - Returning the stored information of 160 planes from the database
+[INFO ] 2021-04-17 19:51:39.729 [scheduling-1] OpenSkyService - Returning the stored information of 161 planes from the database
+[INFO ] 2021-04-17 19:51:39.729 [scheduling-1] OpenSkyService - Updating the database: 1 new planes entering the region
+[INFO ] 2021-04-17 19:51:39.729 [scheduling-1] OpenSkyService - Calling External API
+[INFO ] 2021-04-17 19:51:40.487 [scheduling-1] OpenSkyService - Success on calling the API
+[INFO ] 2021-04-17 19:51:40.487 [scheduling-1] OpenSkyService - Updating information on 35 planes
+[INFO ] 2021-04-17 19:51:40.491 [scheduling-1] OpenSkyService - Returning the stored information of 161 planes from the database
+[INFO ] 2021-04-17 19:51:40.524 [scheduling-1] OpenSkyService - Returning the stored information of 161 planes from the database
+[INFO ] 2021-04-17 19:51:40.524 [scheduling-1] OpenSkyService - Updating the database: 0 new planes entering the region
+[INFO ] 2021-04-17 19:51:40.524 [scheduling-1] OpenSkyService - Calling External API
+[INFO ] 2021-04-17 19:51:41.500 [scheduling-1] OpenSkyService - Success on calling the API
+[INFO ] 2021-04-17 19:51:41.501 [scheduling-1] OpenSkyService - Updating information on 35 planes
+[INFO ] 2021-04-17 19:51:41.505 [scheduling-1] OpenSkyService - Returning the stored information of 161 planes from the database
+[INFO ] 2021-04-17 19:51:41.523 [scheduling-1] OpenSkyService - Returning the stored information of 161 planes from the database
+[INFO ] 2021-04-17 19:51:41.523 [scheduling-1] OpenSkyService - Updating the database: 0 new planes entering the region
+[INFO ] 2021-04-17 19:51:41.523 [scheduling-1] OpenSkyService - Calling External API
+[INFO ] 2021-04-17 19:51:41.806 [http-nio-8080-exec-8] PlaneController - Request for live plane information
+[INFO ] 2021-04-17 19:51:41.806 [http-nio-8080-exec-8] OpenSkyService - Returning 35 planes for live information
+[INFO ] 2021-04-17 19:51:46.842 [http-nio-8080-exec-9] PlaneController - Request for live plane information
+[INFO ] 2021-04-17 19:51:46.842 [http-nio-8080-exec-9] OpenSkyService - Returning 35 planes for live information
+[INFO ] 2021-04-17 19:51:51.872 [http-nio-8080-exec-10] PlaneController - Request for live plane information
+[INFO ] 2021-04-17 19:51:51.873 [http-nio-8080-exec-10] OpenSkyService - Returning 35 planes for live information
+[INFO ] 2021-04-17 19:51:56.904 [http-nio-8080-exec-1] PlaneController - Request for live plane information
+[INFO ] 2021-04-17 19:51:56.905 [http-nio-8080-exec-1] OpenSkyService - Returning 35 planes for live information
+[INFO ] 2021-04-17 19:51:59.680 [scheduling-1] OpenSkyService - Success on calling the API
+[INFO ] 2021-04-17 19:51:59.680 [scheduling-1] OpenSkyService - Updating information on 34 planes
+[INFO ] 2021-04-17 19:51:59.684 [scheduling-1] OpenSkyService - Returning the stored information of 161 planes from the database
+[INFO ] 2021-04-17 19:51:59.716 [scheduling-1] OpenSkyService - Returning the stored information of 161 planes from the database
+[INFO ] 2021-04-17 19:51:59.716 [scheduling-1] OpenSkyService - Updating the database: 0 new planes entering the region
+[INFO ] 2021-04-17 19:51:59.716 [scheduling-1] OpenSkyService - Calling External API
+[INFO ] 2021-04-17 19:52:01.938 [http-nio-8080-exec-2] PlaneController - Request for live plane information
+[INFO ] 2021-04-17 19:52:01.938 [http-nio-8080-exec-2] OpenSkyService - Returning 34 planes for live information
+[INFO ] 2021-04-17 19:52:03.487 [scheduling-1] OpenSkyService - Success on calling the API
+[INFO ] 2021-04-17 19:52:03.487 [scheduling-1] OpenSkyService - Updating information on 34 planes
+[INFO ] 2021-04-17 19:52:03.491 [scheduling-1] OpenSkyService - Returning the stored information of 161 planes from the database
+[INFO ] 2021-04-17 19:52:03.524 [scheduling-1] OpenSkyService - Returning the stored information of 161 planes from the database
+[INFO ] 2021-04-17 19:52:03.524 [scheduling-1] OpenSkyService - Updating the database: 0 new planes entering the region
+[INFO ] 2021-04-17 19:52:03.524 [scheduling-1] OpenSkyService - Calling External API
+[INFO ] 2021-04-17 19:52:06.974 [http-nio-8080-exec-3] PlaneController - Request for live plane information
+[INFO ] 2021-04-17 19:52:06.974 [http-nio-8080-exec-3] OpenSkyService - Returning 34 planes for live information
+[INFO ] 2021-04-17 19:52:11.997 [http-nio-8080-exec-4] PlaneController - Request for live plane information
+[INFO ] 2021-04-17 19:52:11.997 [http-nio-8080-exec-4] OpenSkyService - Returning 34 planes for live information
+[INFO ] 2021-04-17 19:52:17.024 [http-nio-8080-exec-5] PlaneController - Request for live plane information
+[INFO ] 2021-04-17 19:52:17.024 [http-nio-8080-exec-5] OpenSkyService - Returning 34 planes for live information
+[INFO ] 2021-04-17 19:52:22.040 [http-nio-8080-exec-6] PlaneController - Request for live plane information
+[INFO ] 2021-04-17 19:52:22.040 [http-nio-8080-exec-6] OpenSkyService - Returning 34 planes for live information
+[INFO ] 2021-04-17 19:52:22.681 [scheduling-1] OpenSkyService - Success on calling the API
+[INFO ] 2021-04-17 19:52:22.681 [scheduling-1] OpenSkyService - Updating information on 34 planes
+[INFO ] 2021-04-17 19:52:22.685 [scheduling-1] OpenSkyService - Returning the stored information of 161 planes from the database
+[INFO ] 2021-04-17 19:52:22.719 [scheduling-1] OpenSkyService - Returning the stored information of 162 planes from the database
+[INFO ] 2021-04-17 19:52:22.719 [scheduling-1] OpenSkyService - Updating the database: 1 new planes entering the region
+[INFO ] 2021-04-17 19:52:22.719 [scheduling-1] OpenSkyService - Calling External API
+[INFO ] 2021-04-17 19:52:24.894 [scheduling-1] OpenSkyService - Success on calling the API
+[INFO ] 2021-04-17 19:52:24.894 [scheduling-1] OpenSkyService - Updating information on 34 planes
+[INFO ] 2021-04-17 19:52:24.898 [scheduling-1] OpenSkyService - Returning the stored information of 162 planes from the database
+[INFO ] 2021-04-17 19:52:24.914 [scheduling-1] OpenSkyService - Returning the stored information of 162 planes from the database
+[INFO ] 2021-04-17 19:52:24.915 [scheduling-1] OpenSkyService - Updating the database: 0 new planes entering the region
+[INFO ] 2021-04-17 19:52:24.915 [scheduling-1] OpenSkyService - Calling External API
+[INFO ] 2021-04-17 19:52:27.064 [http-nio-8080-exec-7] PlaneController - Request for live plane information
+[INFO ] 2021-04-17 19:52:27.064 [http-nio-8080-exec-7] OpenSkyService - Returning 34 planes for live information
+[INFO ] 2021-04-17 19:52:28.251 [restartedMain] ProjectbackendApplication - Starting ProjectbackendApplication using Java 15.0.2 on DESKTOP-SGTOE57 with PID 16376 (C:\Users\rafas\OneDrive\Área de Trabalho\TP_ES\open-sky-project\projectbackend\target\classes started by rafas in C:\Users\rafas\OneDrive\Área de Trabalho\TP_ES\open-sky-project\projectbackend)
+[DEBUG] 2021-04-17 19:52:28.252 [restartedMain] ProjectbackendApplication - Running with Spring Boot v2.4.4, Spring v5.3.5
+[INFO ] 2021-04-17 19:52:28.252 [restartedMain] ProjectbackendApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2021-04-17 19:52:28.922 [restartedMain] ProjectbackendApplication - Started ProjectbackendApplication in 0.786 seconds (JVM running for 252.942)
+[INFO ] 2021-04-17 19:52:28.922 [scheduling-1] OpenSkyService - Calling External API
+[INFO ] 2021-04-17 19:52:29.466 [scheduling-1] OpenSkyService - Success on calling the API
+[INFO ] 2021-04-17 19:52:29.466 [scheduling-1] OpenSkyService - Updating information on 34 planes
+[INFO ] 2021-04-17 19:52:29.473 [scheduling-1] OpenSkyService - Returning the stored information of 162 planes from the database
+[INFO ] 2021-04-17 19:52:29.495 [scheduling-1] OpenSkyService - Returning the stored information of 162 planes from the database
+[INFO ] 2021-04-17 19:52:29.495 [scheduling-1] OpenSkyService - Updating the database: 0 new planes entering the region
+[INFO ] 2021-04-17 19:52:32.097 [http-nio-8080-exec-1] PlaneController - Request for live plane information
+[INFO ] 2021-04-17 19:52:32.098 [http-nio-8080-exec-1] OpenSkyService - Returning 34 planes for live information
+[INFO ] 2021-04-17 19:52:33.596 [restartedMain] ProjectbackendApplication - Starting ProjectbackendApplication using Java 15.0.2 on DESKTOP-SGTOE57 with PID 16376 (C:\Users\rafas\OneDrive\Área de Trabalho\TP_ES\open-sky-project\projectbackend\target\classes started by rafas in C:\Users\rafas\OneDrive\Área de Trabalho\TP_ES\open-sky-project\projectbackend)
+[DEBUG] 2021-04-17 19:52:33.597 [restartedMain] ProjectbackendApplication - Running with Spring Boot v2.4.4, Spring v5.3.5
+[INFO ] 2021-04-17 19:52:33.597 [restartedMain] ProjectbackendApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2021-04-17 19:52:34.178 [restartedMain] ProjectbackendApplication - Started ProjectbackendApplication in 0.656 seconds (JVM running for 258.197)
+[INFO ] 2021-04-17 19:52:34.178 [scheduling-1] OpenSkyService - Calling External API
+[INFO ] 2021-04-17 19:52:37.118 [http-nio-8080-exec-2] PlaneController - Request for live plane information
+[INFO ] 2021-04-17 19:52:37.118 [http-nio-8080-exec-2] OpenSkyService - No live plane information
+[INFO ] 2021-04-17 19:52:39.581 [scheduling-1] OpenSkyService - Success on calling the API
+[INFO ] 2021-04-17 19:52:39.581 [scheduling-1] OpenSkyService - Updating information on 33 planes
+[INFO ] 2021-04-17 19:52:39.588 [scheduling-1] OpenSkyService - Returning the stored information of 162 planes from the database
+[INFO ] 2021-04-17 19:52:39.627 [scheduling-1] OpenSkyService - Returning the stored information of 163 planes from the database
+[INFO ] 2021-04-17 19:52:39.627 [scheduling-1] OpenSkyService - Updating the database: 1 new planes entering the region
+[INFO ] 2021-04-17 19:52:39.627 [scheduling-1] OpenSkyService - Calling External API
+[INFO ] 2021-04-17 19:52:42.131 [http-nio-8080-exec-1] PlaneController - Request for live plane information
+[INFO ] 2021-04-17 19:52:42.131 [http-nio-8080-exec-1] OpenSkyService - Returning 33 planes for live information
+[INFO ] 2021-04-17 19:52:47.161 [http-nio-8080-exec-3] PlaneController - Request for live plane information
+[INFO ] 2021-04-17 19:52:47.161 [http-nio-8080-exec-3] OpenSkyService - Returning 33 planes for live information
+[INFO ] 2021-04-17 19:52:48.898 [scheduling-1] OpenSkyService - Success on calling the API
+[INFO ] 2021-04-17 19:52:48.898 [scheduling-1] OpenSkyService - Updating information on 32 planes
+[INFO ] 2021-04-17 19:52:52.192 [http-nio-8080-exec-4] PlaneController - Request for live plane information
+[INFO ] 2021-04-17 19:52:52.192 [http-nio-8080-exec-4] OpenSkyService - Returning 33 planes for live information
+[INFO ] 2021-04-17 19:52:57.160 [restartedMain] ProjectbackendApplication - Starting ProjectbackendApplication using Java 15.0.2 on DESKTOP-SGTOE57 with PID 16376 (C:\Users\rafas\OneDrive\Área de Trabalho\TP_ES\open-sky-project\projectbackend\target\classes started by rafas in C:\Users\rafas\OneDrive\Área de Trabalho\TP_ES\open-sky-project\projectbackend)
+[DEBUG] 2021-04-17 19:52:57.161 [restartedMain] ProjectbackendApplication - Running with Spring Boot v2.4.4, Spring v5.3.5
+[INFO ] 2021-04-17 19:52:57.161 [restartedMain] ProjectbackendApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2021-04-17 19:52:57.712 [restartedMain] ProjectbackendApplication - Started ProjectbackendApplication in 0.623 seconds (JVM running for 281.732)
+[INFO ] 2021-04-17 19:52:57.713 [scheduling-1] OpenSkyService - Calling External API
+[INFO ] 2021-04-17 19:52:57.723 [http-nio-8080-exec-1] PlaneController - Request for live plane information
+[INFO ] 2021-04-17 19:52:57.723 [http-nio-8080-exec-1] OpenSkyService - No live plane information
+[INFO ] 2021-04-17 19:52:58.047 [scheduling-1] OpenSkyService - Success on calling the API
+[INFO ] 2021-04-17 19:52:58.047 [scheduling-1] OpenSkyService - Updating information on 32 planes
+[INFO ] 2021-04-17 19:52:58.092 [scheduling-1] OpenSkyService - Updating the database: 1 new planes entering the region
+[INFO ] 2021-04-17 19:52:58.813 [scheduling-1] OpenSkyService - Success on calling the API
+[INFO ] 2021-04-17 19:52:58.813 [scheduling-1] OpenSkyService - Updating information on 32 planes
+[INFO ] 2021-04-17 19:53:02.726 [scheduling-1] OpenSkyService - Calling External API
+[INFO ] 2021-04-17 19:53:02.746 [http-nio-8080-exec-2] PlaneController - Request for live plane information
+[INFO ] 2021-04-17 19:53:02.747 [http-nio-8080-exec-2] OpenSkyService - Returning 32 planes for live information
+[INFO ] 2021-04-17 19:53:04.524 [scheduling-1] OpenSkyService - Success on calling the API
+[INFO ] 2021-04-17 19:53:04.525 [scheduling-1] OpenSkyService - Updating information on 34 planes
+[INFO ] 2021-04-17 19:53:04.564 [scheduling-1] OpenSkyService - Updating the database: 2 new planes entering the region
+[INFO ] 2021-04-17 19:53:07.722 [scheduling-1] OpenSkyService - Calling External API
+[INFO ] 2021-04-17 19:53:07.772 [http-nio-8080-exec-3] PlaneController - Request for live plane information
+[INFO ] 2021-04-17 19:53:07.773 [http-nio-8080-exec-3] OpenSkyService - Returning 34 planes for live information
+[INFO ] 2021-04-17 19:53:09.062 [scheduling-1] OpenSkyService - Success on calling the API
+[INFO ] 2021-04-17 19:53:09.062 [scheduling-1] OpenSkyService - Updating information on 34 planes
+[INFO ] 2021-04-17 19:53:09.085 [scheduling-1] OpenSkyService - Updating the database: 0 new planes entering the region
+[INFO ] 2021-04-17 19:53:12.721 [scheduling-1] OpenSkyService - Calling External API
+[INFO ] 2021-04-17 19:53:12.806 [http-nio-8080-exec-4] PlaneController - Request for live plane information
+[INFO ] 2021-04-17 19:53:12.806 [http-nio-8080-exec-4] OpenSkyService - Returning 34 planes for live information
+[INFO ] 2021-04-17 19:53:17.152 [scheduling-1] OpenSkyService - Success on calling the API
+[INFO ] 2021-04-17 19:53:17.152 [scheduling-1] OpenSkyService - Updating information on 35 planes
+[INFO ] 2021-04-17 19:53:17.189 [scheduling-1] OpenSkyService - Updating the database: 0 new planes entering the region
+[INFO ] 2021-04-17 19:53:17.715 [scheduling-1] OpenSkyService - Calling External API
+[INFO ] 2021-04-17 19:53:17.829 [http-nio-8080-exec-6] PlaneController - Request for live plane information
+[INFO ] 2021-04-17 19:53:17.829 [http-nio-8080-exec-6] OpenSkyService - Returning 35 planes for live information
+[INFO ] 2021-04-17 19:53:22.853 [http-nio-8080-exec-5] PlaneController - Request for live plane information
+[INFO ] 2021-04-17 19:53:22.853 [http-nio-8080-exec-5] OpenSkyService - Returning 35 planes for live information
+[INFO ] 2021-04-17 19:53:27.884 [http-nio-8080-exec-7] PlaneController - Request for live plane information
+[INFO ] 2021-04-17 19:53:27.884 [http-nio-8080-exec-7] OpenSkyService - Returning 35 planes for live information
+[INFO ] 2021-04-17 19:53:30.260 [scheduling-1] OpenSkyService - Success on calling the API
+[INFO ] 2021-04-17 19:53:30.260 [scheduling-1] OpenSkyService - Updating information on 34 planes
+[INFO ] 2021-04-17 19:53:30.295 [scheduling-1] OpenSkyService - Updating the database: 0 new planes entering the region
+[INFO ] 2021-04-17 19:53:30.295 [scheduling-1] OpenSkyService - Calling External API
+[INFO ] 2021-04-17 19:53:32.910 [http-nio-8080-exec-8] PlaneController - Request for live plane information
+[INFO ] 2021-04-17 19:53:32.910 [http-nio-8080-exec-8] OpenSkyService - Returning 34 planes for live information
+[INFO ] 2021-04-17 19:53:37.935 [http-nio-8080-exec-9] PlaneController - Request for live plane information
+[INFO ] 2021-04-17 19:53:37.936 [http-nio-8080-exec-9] OpenSkyService - Returning 34 planes for live information
+[INFO ] 2021-04-17 19:53:42.889 [scheduling-1] OpenSkyService - Success on calling the API
+[INFO ] 2021-04-17 19:53:42.889 [scheduling-1] OpenSkyService - Updating information on 34 planes
+[INFO ] 2021-04-17 19:53:42.924 [scheduling-1] OpenSkyService - Updating the database: 0 new planes entering the region
+[INFO ] 2021-04-17 19:53:42.924 [scheduling-1] OpenSkyService - Calling External API
+[INFO ] 2021-04-17 19:53:43.319 [http-nio-8080-exec-10] PlaneController - Request for live plane information
+[INFO ] 2021-04-17 19:53:43.319 [http-nio-8080-exec-10] OpenSkyService - Returning 34 planes for live information
+[INFO ] 2021-04-17 19:53:49.319 [http-nio-8080-exec-1] PlaneController - Request for live plane information
+[INFO ] 2021-04-17 19:53:49.319 [http-nio-8080-exec-1] OpenSkyService - Returning 34 planes for live information
+[INFO ] 2021-04-17 19:53:55.324 [http-nio-8080-exec-2] PlaneController - Request for live plane information
+[INFO ] 2021-04-17 19:53:55.325 [http-nio-8080-exec-2] OpenSkyService - Returning 34 planes for live information
+[INFO ] 2021-04-17 19:54:01.262 [scheduling-1] OpenSkyService - Success on calling the API
+[INFO ] 2021-04-17 19:54:01.263 [scheduling-1] OpenSkyService - Updating information on 36 planes
+[INFO ] 2021-04-17 19:54:01.301 [scheduling-1] OpenSkyService - Updating the database: 2 new planes entering the region
+[INFO ] 2021-04-17 19:54:01.301 [scheduling-1] OpenSkyService - Calling External API
+[INFO ] 2021-04-17 19:54:01.320 [http-nio-8080-exec-4] PlaneController - Request for live plane information
+[INFO ] 2021-04-17 19:54:01.320 [http-nio-8080-exec-4] OpenSkyService - Returning 36 planes for live information
+[INFO ] 2021-04-17 19:54:01.483 [scheduling-1] OpenSkyService - Success on calling the API
+[INFO ] 2021-04-17 19:54:01.483 [scheduling-1] OpenSkyService - Updating information on 36 planes
+[INFO ] 2021-04-17 19:54:01.520 [scheduling-1] OpenSkyService - Updating the database: 1 new planes entering the region
+[INFO ] 2021-04-17 19:54:01.520 [scheduling-1] OpenSkyService - Calling External API
+[INFO ] 2021-04-17 19:54:01.643 [scheduling-1] OpenSkyService - Success on calling the API
+[INFO ] 2021-04-17 19:54:01.643 [scheduling-1] OpenSkyService - Updating information on 36 planes
+[INFO ] 2021-04-17 19:54:01.665 [scheduling-1] OpenSkyService - Updating the database: 0 new planes entering the region
+[INFO ] 2021-04-17 19:54:01.665 [scheduling-1] OpenSkyService - Calling External API
+[INFO ] 2021-04-17 19:54:01.938 [scheduling-1] OpenSkyService - Success on calling the API
+[INFO ] 2021-04-17 19:54:01.939 [scheduling-1] OpenSkyService - Updating information on 36 planes
+[INFO ] 2021-04-17 19:54:01.964 [scheduling-1] OpenSkyService - Updating the database: 0 new planes entering the region
+[INFO ] 2021-04-17 19:54:01.964 [scheduling-1] OpenSkyService - Calling External API
+[INFO ] 2021-04-17 19:54:02.532 [scheduling-1] OpenSkyService - Success on calling the API
+[INFO ] 2021-04-17 19:54:02.532 [scheduling-1] OpenSkyService - Updating information on 36 planes
+[INFO ] 2021-04-17 19:54:02.560 [scheduling-1] OpenSkyService - Updating the database: 0 new planes entering the region
+[INFO ] 2021-04-17 19:54:02.560 [scheduling-1] OpenSkyService - Calling External API
+[INFO ] 2021-04-17 19:54:03.295 [scheduling-1] OpenSkyService - Success on calling the API
+[INFO ] 2021-04-17 19:54:03.295 [scheduling-1] OpenSkyService - Updating information on 36 planes
+[INFO ] 2021-04-17 19:54:03.317 [scheduling-1] OpenSkyService - Updating the database: 0 new planes entering the region
+[INFO ] 2021-04-17 19:54:03.317 [scheduling-1] OpenSkyService - Calling External API
+[INFO ] 2021-04-17 19:54:03.667 [scheduling-1] OpenSkyService - Success on calling the API
+[INFO ] 2021-04-17 19:54:03.667 [scheduling-1] OpenSkyService - Updating information on 36 planes
+[INFO ] 2021-04-17 19:54:03.691 [scheduling-1] OpenSkyService - Updating the database: 0 new planes entering the region
+[INFO ] 2021-04-17 19:54:03.691 [scheduling-1] OpenSkyService - Calling External API
+[INFO ] 2021-04-17 19:54:04.874 [scheduling-1] OpenSkyService - Success on calling the API
+[INFO ] 2021-04-17 19:54:04.874 [scheduling-1] OpenSkyService - Updating information on 36 planes
+[INFO ] 2021-04-17 19:54:04.899 [scheduling-1] OpenSkyService - Updating the database: 0 new planes entering the region
+[INFO ] 2021-04-17 19:54:07.312 [http-nio-8080-exec-6] PlaneController - Request for live plane information
+[INFO ] 2021-04-17 19:54:07.312 [http-nio-8080-exec-6] OpenSkyService - Returning 36 planes for live information
+[INFO ] 2021-04-17 19:54:07.726 [scheduling-1] OpenSkyService - Calling External API
+[INFO ] 2021-04-17 19:54:13.321 [http-nio-8080-exec-5] PlaneController - Request for live plane information
+[INFO ] 2021-04-17 19:54:13.321 [http-nio-8080-exec-5] OpenSkyService - Returning 36 planes for live information
+[INFO ] 2021-04-17 19:54:14.517 [scheduling-1] OpenSkyService - Success on calling the API
+[INFO ] 2021-04-17 19:54:14.517 [scheduling-1] OpenSkyService - Updating information on 34 planes
+[INFO ] 2021-04-17 19:54:14.551 [scheduling-1] OpenSkyService - Updating the database: 0 new planes entering the region
+[INFO ] 2021-04-17 19:54:14.551 [scheduling-1] OpenSkyService - Calling External API
+[INFO ] 2021-04-17 19:54:19.317 [http-nio-8080-exec-7] PlaneController - Request for live plane information
+[INFO ] 2021-04-17 19:54:19.317 [http-nio-8080-exec-7] OpenSkyService - Returning 34 planes for live information
+[INFO ] 2021-04-17 19:54:21.105 [scheduling-1] OpenSkyService - Success on calling the API
+[INFO ] 2021-04-17 19:54:21.105 [scheduling-1] OpenSkyService - Updating information on 33 planes
+[INFO ] 2021-04-17 19:54:21.140 [scheduling-1] OpenSkyService - Updating the database: 0 new planes entering the region
+[INFO ] 2021-04-17 19:54:21.140 [scheduling-1] OpenSkyService - Calling External API
+[INFO ] 2021-04-17 19:54:21.247 [scheduling-1] OpenSkyService - Success on calling the API
+[INFO ] 2021-04-17 19:54:21.247 [scheduling-1] OpenSkyService - Updating information on 33 planes
+[INFO ] 2021-04-17 19:54:21.269 [scheduling-1] OpenSkyService - Updating the database: 0 new planes entering the region
+[INFO ] 2021-04-17 19:54:22.728 [scheduling-1] OpenSkyService - Calling External API
+[INFO ] 2021-04-17 19:54:25.316 [http-nio-8080-exec-8] PlaneController - Request for live plane information
+[INFO ] 2021-04-17 19:54:25.317 [http-nio-8080-exec-8] OpenSkyService - Returning 33 planes for live information
+[INFO ] 2021-04-17 19:54:26.476 [scheduling-1] OpenSkyService - Success on calling the API
+[INFO ] 2021-04-17 19:54:26.476 [scheduling-1] OpenSkyService - Updating information on 33 planes
+[INFO ] 2021-04-17 19:54:26.497 [scheduling-1] OpenSkyService - Updating the database: 0 new planes entering the region
+[INFO ] 2021-04-17 19:54:27.715 [scheduling-1] OpenSkyService - Calling External API
+[INFO ] 2021-04-17 19:54:28.561 [scheduling-1] OpenSkyService - Success on calling the API
+[INFO ] 2021-04-17 19:54:28.561 [scheduling-1] OpenSkyService - Updating information on 33 planes
+[INFO ] 2021-04-17 19:54:28.582 [scheduling-1] OpenSkyService - Updating the database: 0 new planes entering the region
+[INFO ] 2021-04-17 19:54:31.311 [http-nio-8080-exec-9] PlaneController - Request for live plane information
+[INFO ] 2021-04-17 19:54:31.311 [http-nio-8080-exec-9] OpenSkyService - Returning 33 planes for live information
+[INFO ] 2021-04-17 19:54:32.721 [scheduling-1] OpenSkyService - Calling External API
+[INFO ] 2021-04-17 19:54:33.146 [scheduling-1] OpenSkyService - Success on calling the API
+[INFO ] 2021-04-17 19:54:33.146 [scheduling-1] OpenSkyService - Updating information on 32 planes
+[INFO ] 2021-04-17 19:54:33.183 [scheduling-1] OpenSkyService - Updating the database: 1 new planes entering the region
+[INFO ] 2021-04-17 19:54:37.312 [http-nio-8080-exec-10] PlaneController - Request for live plane information
+[INFO ] 2021-04-17 19:54:37.312 [http-nio-8080-exec-10] OpenSkyService - Returning 32 planes for live information
+[INFO ] 2021-04-17 19:54:37.714 [scheduling-1] OpenSkyService - Calling External API
+[INFO ] 2021-04-17 19:54:39.326 [scheduling-1] OpenSkyService - Success on calling the API
+[INFO ] 2021-04-17 19:54:39.326 [scheduling-1] OpenSkyService - Updating information on 32 planes
+[INFO ] 2021-04-17 19:54:39.346 [scheduling-1] OpenSkyService - Updating the database: 0 new planes entering the region
+[INFO ] 2021-04-17 19:54:42.721 [scheduling-1] OpenSkyService - Calling External API
+[INFO ] 2021-04-17 19:54:43.321 [http-nio-8080-exec-1] PlaneController - Request for live plane information
+[INFO ] 2021-04-17 19:54:43.321 [http-nio-8080-exec-1] OpenSkyService - Returning 32 planes for live information
+[INFO ] 2021-04-17 19:54:46.226 [scheduling-1] OpenSkyService - Success on calling the API
+[INFO ] 2021-04-17 19:54:46.226 [scheduling-1] OpenSkyService - Updating information on 32 planes
+[INFO ] 2021-04-17 19:54:46.259 [scheduling-1] OpenSkyService - Updating the database: 1 new planes entering the region
+[INFO ] 2021-04-17 19:54:47.728 [scheduling-1] OpenSkyService - Calling External API
+[INFO ] 2021-04-17 19:54:48.610 [scheduling-1] OpenSkyService - Success on calling the API
+[INFO ] 2021-04-17 19:54:48.610 [scheduling-1] OpenSkyService - Updating information on 32 planes
+[INFO ] 2021-04-17 19:54:48.630 [scheduling-1] OpenSkyService - Updating the database: 0 new planes entering the region
+[INFO ] 2021-04-17 19:54:49.317 [http-nio-8080-exec-2] PlaneController - Request for live plane information
+[INFO ] 2021-04-17 19:54:49.317 [http-nio-8080-exec-2] OpenSkyService - Returning 32 planes for live information
+[INFO ] 2021-04-17 19:54:52.719 [scheduling-1] OpenSkyService - Calling External API
+[INFO ] 2021-04-17 19:54:55.318 [http-nio-8080-exec-3] PlaneController - Request for live plane information
+[INFO ] 2021-04-17 19:54:55.318 [http-nio-8080-exec-3] OpenSkyService - Returning 32 planes for live information
+[INFO ] 2021-04-17 19:55:01.324 [http-nio-8080-exec-4] PlaneController - Request for live plane information
+[INFO ] 2021-04-17 19:55:01.324 [http-nio-8080-exec-4] OpenSkyService - Returning 32 planes for live information
+[INFO ] 2021-04-17 19:55:07.319 [http-nio-8080-exec-6] PlaneController - Request for live plane information
+[INFO ] 2021-04-17 19:55:07.319 [http-nio-8080-exec-6] OpenSkyService - Returning 32 planes for live information
+[INFO ] 2021-04-17 19:55:08.400 [scheduling-1] OpenSkyService - Success on calling the API
+[INFO ] 2021-04-17 19:55:08.400 [scheduling-1] OpenSkyService - Updating information on 31 planes
+[INFO ] 2021-04-17 19:55:08.436 [scheduling-1] OpenSkyService - Updating the database: 0 new planes entering the region
+[INFO ] 2021-04-17 19:55:08.436 [scheduling-1] OpenSkyService - Calling External API
+[INFO ] 2021-04-17 19:55:09.016 [scheduling-1] OpenSkyService - Success on calling the API
+[INFO ] 2021-04-17 19:55:09.016 [scheduling-1] OpenSkyService - Updating information on 31 planes
+[INFO ] 2021-04-17 19:55:09.036 [scheduling-1] OpenSkyService - Updating the database: 0 new planes entering the region
+[INFO ] 2021-04-17 19:55:09.036 [scheduling-1] OpenSkyService - Calling External API
+[INFO ] 2021-04-17 19:55:10.610 [scheduling-1] OpenSkyService - Success on calling the API
+[INFO ] 2021-04-17 19:55:10.610 [scheduling-1] OpenSkyService - Updating information on 32 planes
+[INFO ] 2021-04-17 19:55:10.647 [scheduling-1] OpenSkyService - Updating the database: 2 new planes entering the region
+[INFO ] 2021-04-17 19:55:10.647 [scheduling-1] OpenSkyService - Calling External API
+[INFO ] 2021-04-17 19:55:13.313 [http-nio-8080-exec-5] PlaneController - Request for live plane information
+[INFO ] 2021-04-17 19:55:13.313 [http-nio-8080-exec-5] OpenSkyService - Returning 32 planes for live information
+[INFO ] 2021-04-17 19:55:19.311 [http-nio-8080-exec-7] PlaneController - Request for live plane information
+[INFO ] 2021-04-17 19:55:19.311 [http-nio-8080-exec-7] OpenSkyService - Returning 32 planes for live information
+[INFO ] 2021-04-17 19:55:25.326 [http-nio-8080-exec-8] PlaneController - Request for live plane information
+[INFO ] 2021-04-17 19:55:25.326 [http-nio-8080-exec-8] OpenSkyService - Returning 32 planes for live information
+[INFO ] 2021-04-17 19:55:29.246 [scheduling-1] OpenSkyService - Success on calling the API
+[INFO ] 2021-04-17 19:55:29.246 [scheduling-1] OpenSkyService - Updating information on 31 planes
+[INFO ] 2021-04-17 19:55:29.280 [scheduling-1] OpenSkyService - Updating the database: 0 new planes entering the region
+[INFO ] 2021-04-17 19:55:29.280 [scheduling-1] OpenSkyService - Calling External API
+[INFO ] 2021-04-17 19:55:31.315 [http-nio-8080-exec-9] PlaneController - Request for live plane information
+[INFO ] 2021-04-17 19:55:31.315 [http-nio-8080-exec-9] OpenSkyService - Returning 31 planes for live information
+[INFO ] 2021-04-17 19:55:32.238 [scheduling-1] OpenSkyService - Success on calling the API
+[INFO ] 2021-04-17 19:55:32.238 [scheduling-1] OpenSkyService - Updating information on 30 planes
+[INFO ] 2021-04-17 19:55:32.273 [scheduling-1] OpenSkyService - Updating the database: 1 new planes entering the region
+[INFO ] 2021-04-17 19:55:32.274 [scheduling-1] OpenSkyService - Calling External API
+[INFO ] 2021-04-17 19:55:32.388 [scheduling-1] OpenSkyService - Success on calling the API
+[INFO ] 2021-04-17 19:55:32.388 [scheduling-1] OpenSkyService - Updating information on 30 planes
+[INFO ] 2021-04-17 19:55:32.408 [scheduling-1] OpenSkyService - Updating the database: 0 new planes entering the region
+[INFO ] 2021-04-17 19:55:32.408 [scheduling-1] OpenSkyService - Calling External API
+[INFO ] 2021-04-17 19:55:37.224 [scheduling-1] OpenSkyService - Success on calling the API
+[INFO ] 2021-04-17 19:55:37.224 [scheduling-1] OpenSkyService - Updating information on 30 planes
+[INFO ] 2021-04-17 19:55:37.244 [scheduling-1] OpenSkyService - Updating the database: 0 new planes entering the region
+[INFO ] 2021-04-17 19:55:37.244 [scheduling-1] OpenSkyService - Calling External API
+[INFO ] 2021-04-17 19:55:37.318 [http-nio-8080-exec-10] PlaneController - Request for live plane information
+[INFO ] 2021-04-17 19:55:37.318 [http-nio-8080-exec-10] OpenSkyService - Returning 30 planes for live information
+[INFO ] 2021-04-17 19:55:41.001 [scheduling-1] OpenSkyService - Success on calling the API
+[INFO ] 2021-04-17 19:55:41.001 [scheduling-1] OpenSkyService - Updating information on 30 planes
+[INFO ] 2021-04-17 19:55:41.036 [scheduling-1] OpenSkyService - Updating the database: 0 new planes entering the region
+[INFO ] 2021-04-17 19:55:41.036 [scheduling-1] OpenSkyService - Calling External API
+[INFO ] 2021-04-17 19:55:43.309 [http-nio-8080-exec-1] PlaneController - Request for live plane information
+[INFO ] 2021-04-17 19:55:43.309 [http-nio-8080-exec-1] OpenSkyService - Returning 30 planes for live information
+[INFO ] 2021-04-17 19:55:48.363 [http-nio-8080-exec-2] PlaneController - Request for live plane information
+[INFO ] 2021-04-17 19:55:48.363 [http-nio-8080-exec-2] OpenSkyService - Returning 30 planes for live information
+[INFO ] 2021-04-17 19:55:49.453 [scheduling-1] OpenSkyService - Success on calling the API
+[INFO ] 2021-04-17 19:55:49.453 [scheduling-1] OpenSkyService - Updating information on 30 planes
+[INFO ] 2021-04-17 19:55:49.476 [scheduling-1] OpenSkyService - Updating the database: 0 new planes entering the region
+[INFO ] 2021-04-17 19:55:49.476 [scheduling-1] OpenSkyService - Calling External API
+[INFO ] 2021-04-17 19:55:52.434 [http-nio-8080-exec-3] PlaneController - Request for altitude history
+[INFO ] 2021-04-17 19:55:52.439 [http-nio-8080-exec-3] OpenSkyService - Returning the stored information of 174 planes from the database
+[INFO ] 2021-04-17 19:55:52.953 [scheduling-1] OpenSkyService - Success on calling the API
+[INFO ] 2021-04-17 19:55:52.953 [scheduling-1] OpenSkyService - Updating information on 30 planes
+[INFO ] 2021-04-17 19:55:52.985 [scheduling-1] OpenSkyService - Updating the database: 0 new planes entering the region
+[INFO ] 2021-04-17 19:55:52.985 [scheduling-1] OpenSkyService - Calling External API
+[INFO ] 2021-04-17 19:55:54.406 [http-nio-8080-exec-4] PlaneController - Request for live plane information
+[INFO ] 2021-04-17 19:55:54.407 [http-nio-8080-exec-4] OpenSkyService - Returning 30 planes for live information
+[INFO ] 2021-04-17 19:55:56.844 [scheduling-1] OpenSkyService - Success on calling the API
+[INFO ] 2021-04-17 19:55:56.844 [scheduling-1] OpenSkyService - Updating information on 30 planes
+[INFO ] 2021-04-17 19:55:56.872 [scheduling-1] OpenSkyService - Updating the database: 0 new planes entering the region
+[INFO ] 2021-04-17 19:55:56.872 [scheduling-1] OpenSkyService - Calling External API
+[INFO ] 2021-04-17 19:55:59.470 [http-nio-8080-exec-5] PlaneController - Request for live plane information
+[INFO ] 2021-04-17 19:55:59.470 [http-nio-8080-exec-5] OpenSkyService - Returning 30 planes for live information
+[INFO ] 2021-04-17 19:55:59.881 [scheduling-1] OpenSkyService - Success on calling the API
+[INFO ] 2021-04-17 19:55:59.881 [scheduling-1] OpenSkyService - Updating information on 33 planes
+[INFO ] 2021-04-17 19:55:59.914 [scheduling-1] OpenSkyService - Updating the database: 3 new planes entering the region
+[INFO ] 2021-04-17 19:55:59.914 [scheduling-1] OpenSkyService - Calling External API
+[INFO ] 2021-04-17 19:56:01.711 [scheduling-1] OpenSkyService - Success on calling the API
+[INFO ] 2021-04-17 19:56:01.711 [scheduling-1] OpenSkyService - Updating information on 33 planes
+[INFO ] 2021-04-17 19:56:01.743 [scheduling-1] OpenSkyService - Updating the database: 0 new planes entering the region
+[INFO ] 2021-04-17 19:56:01.743 [scheduling-1] OpenSkyService - Calling External API
+[INFO ] 2021-04-17 19:56:04.516 [http-nio-8080-exec-7] PlaneController - Request for live plane information
+[INFO ] 2021-04-17 19:56:04.516 [http-nio-8080-exec-7] OpenSkyService - Returning 33 planes for live information
+[INFO ] 2021-04-17 19:56:05.615 [scheduling-1] OpenSkyService - Success on calling the API
+[INFO ] 2021-04-17 19:56:05.615 [scheduling-1] OpenSkyService - Updating information on 33 planes
+[INFO ] 2021-04-17 19:56:05.636 [scheduling-1] OpenSkyService - Updating the database: 0 new planes entering the region
+[INFO ] 2021-04-17 19:56:05.636 [scheduling-1] OpenSkyService - Calling External API
+[INFO ] 2021-04-17 19:56:06.782 [scheduling-1] OpenSkyService - Success on calling the API
+[INFO ] 2021-04-17 19:56:06.782 [scheduling-1] OpenSkyService - Updating information on 33 planes
+[INFO ] 2021-04-17 19:56:06.803 [scheduling-1] OpenSkyService - Updating the database: 0 new planes entering the region
+[INFO ] 2021-04-17 19:56:07.723 [scheduling-1] OpenSkyService - Calling External API
+[INFO ] 2021-04-17 19:56:09.561 [http-nio-8080-exec-9] PlaneController - Request for live plane information
+[INFO ] 2021-04-17 19:56:09.561 [http-nio-8080-exec-9] OpenSkyService - Returning 33 planes for live information
+[INFO ] 2021-04-17 19:56:14.386 [scheduling-1] OpenSkyService - Success on calling the API
+[INFO ] 2021-04-17 19:56:14.386 [scheduling-1] OpenSkyService - Updating information on 33 planes
+[INFO ] 2021-04-17 19:56:14.421 [scheduling-1] OpenSkyService - Updating the database: 0 new planes entering the region
+[INFO ] 2021-04-17 19:56:14.421 [scheduling-1] OpenSkyService - Calling External API
+[INFO ] 2021-04-17 19:56:15.314 [http-nio-8080-exec-10] PlaneController - Request for live plane information
+[INFO ] 2021-04-17 19:56:15.315 [http-nio-8080-exec-10] OpenSkyService - Returning 33 planes for live information
+[INFO ] 2021-04-17 19:56:16.388 [scheduling-1] OpenSkyService - Success on calling the API
+[INFO ] 2021-04-17 19:56:16.388 [scheduling-1] OpenSkyService - Updating information on 33 planes
+[INFO ] 2021-04-17 19:56:16.407 [scheduling-1] OpenSkyService - Updating the database: 0 new planes entering the region
+[INFO ] 2021-04-17 19:56:17.716 [scheduling-1] OpenSkyService - Calling External API
