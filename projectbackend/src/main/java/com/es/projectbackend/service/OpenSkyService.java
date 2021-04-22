@@ -13,6 +13,7 @@ import org.springframework.scheduling.annotation.Scheduled;
 import org.springframework.stereotype.Service;
 import org.springframework.web.client.RestTemplate;
 
+import com.es.projectbackend.kafka.KafkaProducer;
 import com.es.projectbackend.model.Plane;
 import com.es.projectbackend.model.States;
 import com.es.projectbackend.repository.PlaneRepository;
@@ -21,6 +22,8 @@ import com.es.projectbackend.repository.PlaneRepository;
 public class OpenSkyService {
 	@Autowired
 	private PlaneRepository planeRepository;
+
+	@Autowired KafkaProducer kafkaProducer;
 	
 	private Collection<Plane> planes;
 	private RestTemplate restTemplate;
@@ -49,6 +52,7 @@ public class OpenSkyService {
 		    planeRepository.saveAll(openSkyStates.getBody().getStatesWithAltitude());
 		    int newPlanes = getHistorySize() - countHistoryBeforeUpdate;
 		    logger.info("Updating the database: " + newPlanes + " new planes entering the region");
+		    kafkaProducer.sendMessage(newPlanes + " new planes entering the region");
 	    }
 	    else
 	    	logger.error("Error while calling the API: " + openSkyStates.getStatusCode().toString());

@@ -548,3 +548,162 @@
 [INFO ] 2021-04-17 19:56:16.388 [scheduling-1] OpenSkyService - Updating information on 33 planes
 [INFO ] 2021-04-17 19:56:16.407 [scheduling-1] OpenSkyService - Updating the database: 0 new planes entering the region
 [INFO ] 2021-04-17 19:56:17.716 [scheduling-1] OpenSkyService - Calling External API
+[INFO ] 2021-04-22 15:55:32.941 [restartedMain] ProjectbackendApplication - Starting ProjectbackendApplication using Java 15.0.2 on DESKTOP-SGTOE57 with PID 22588 (C:\Users\rafas\OneDrive\Área de Trabalho\TP_ES\open-sky-project\projectbackend\target\classes started by rafas in C:\Users\rafas\OneDrive\Área de Trabalho\TP_ES\open-sky-project\projectbackend)
+[DEBUG] 2021-04-22 15:55:32.954 [restartedMain] ProjectbackendApplication - Running with Spring Boot v2.4.4, Spring v5.3.5
+[INFO ] 2021-04-22 15:55:32.954 [restartedMain] ProjectbackendApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2021-04-22 15:55:39.144 [scheduling-1] OpenSkyService - Calling External API
+[INFO ] 2021-04-22 15:55:39.148 [restartedMain] ProjectbackendApplication - Started ProjectbackendApplication in 6.825 seconds (JVM running for 9.542)
+[INFO ] 2021-04-22 15:55:49.620 [scheduling-1] OpenSkyService - Success on calling the API
+[INFO ] 2021-04-22 15:55:49.620 [scheduling-1] OpenSkyService - Updating information on 19 planes
+[INFO ] 2021-04-22 15:55:49.988 [scheduling-1] OpenSkyService - Updating the database: 14 new planes entering the region
+[INFO ] 2021-04-22 15:55:49.988 [scheduling-1] OpenSkyService - Calling External API
+[INFO ] 2021-04-22 15:55:50.724 [scheduling-1] OpenSkyService - Success on calling the API
+[INFO ] 2021-04-22 15:55:50.725 [scheduling-1] OpenSkyService - Updating information on 19 planes
+[INFO ] 2021-04-22 15:55:50.765 [scheduling-1] OpenSkyService - Updating the database: 0 new planes entering the region
+[INFO ] 2021-04-22 15:55:50.765 [scheduling-1] OpenSkyService - Calling External API
+[INFO ] 2021-04-22 15:55:53.904 [scheduling-1] OpenSkyService - Success on calling the API
+[INFO ] 2021-04-22 15:55:53.904 [scheduling-1] OpenSkyService - Updating information on 19 planes
+[INFO ] 2021-04-22 15:55:53.962 [scheduling-1] OpenSkyService - Updating the database: 0 new planes entering the region
+[INFO ] 2021-04-22 15:55:54.144 [scheduling-1] OpenSkyService - Calling External API
+[INFO ] 2021-04-22 15:55:54.533 [scheduling-1] OpenSkyService - Success on calling the API
+[INFO ] 2021-04-22 15:55:54.533 [scheduling-1] OpenSkyService - Updating information on 19 planes
+[INFO ] 2021-04-22 15:55:54.578 [scheduling-1] OpenSkyService - Updating the database: 0 new planes entering the region
+[INFO ] 2021-04-22 15:55:59.151 [scheduling-1] OpenSkyService - Calling External API
+[INFO ] 2021-04-22 15:55:59.401 [scheduling-1] OpenSkyService - Success on calling the API
+[INFO ] 2021-04-22 15:55:59.401 [scheduling-1] OpenSkyService - Updating information on 19 planes
+[INFO ] 2021-04-22 15:55:59.431 [scheduling-1] OpenSkyService - Updating the database: 0 new planes entering the region
+[INFO ] 2021-04-22 15:56:04.147 [scheduling-1] OpenSkyService - Calling External API
+[INFO ] 2021-04-22 15:56:07.481 [scheduling-1] OpenSkyService - Success on calling the API
+[INFO ] 2021-04-22 15:56:07.481 [scheduling-1] OpenSkyService - Updating information on 19 planes
+[INFO ] 2021-04-22 15:56:07.528 [scheduling-1] OpenSkyService - Updating the database: 0 new planes entering the region
+[INFO ] 2021-04-22 15:56:09.156 [scheduling-1] OpenSkyService - Calling External API
+[INFO ] 2021-04-22 15:56:13.200 [scheduling-1] OpenSkyService - Success on calling the API
+[INFO ] 2021-04-22 15:56:13.200 [scheduling-1] OpenSkyService - Updating information on 18 planes
+[INFO ] 2021-04-22 15:56:13.245 [scheduling-1] OpenSkyService - Updating the database: 0 new planes entering the region
+[INFO ] 2021-04-22 15:56:14.144 [scheduling-1] OpenSkyService - Calling External API
+[INFO ] 2021-04-22 15:56:15.627 [scheduling-1] OpenSkyService - Success on calling the API
+[INFO ] 2021-04-22 15:56:15.628 [scheduling-1] OpenSkyService - Updating information on 18 planes
+[INFO ] 2021-04-22 15:56:15.656 [scheduling-1] OpenSkyService - Updating the database: 0 new planes entering the region
+[INFO ] 2021-04-22 15:56:19.152 [scheduling-1] OpenSkyService - Calling External API
+[INFO ] 2021-04-22 15:56:19.482 [scheduling-1] OpenSkyService - Success on calling the API
+[INFO ] 2021-04-22 15:56:19.482 [scheduling-1] OpenSkyService - Updating information on 18 planes
+[INFO ] 2021-04-22 15:56:19.511 [scheduling-1] OpenSkyService - Updating the database: 0 new planes entering the region
+[INFO ] 2021-04-22 15:56:24.147 [scheduling-1] OpenSkyService - Calling External API
+[INFO ] 2021-04-22 15:56:34.953 [scheduling-1] OpenSkyService - Success on calling the API
+[INFO ] 2021-04-22 15:56:34.954 [scheduling-1] OpenSkyService - Updating information on 17 planes
+[INFO ] 2021-04-22 15:56:34.992 [scheduling-1] OpenSkyService - Updating the database: 0 new planes entering the region
+[INFO ] 2021-04-22 15:56:34.992 [scheduling-1] OpenSkyService - Calling External API
+[INFO ] 2021-04-22 15:56:40.242 [scheduling-1] OpenSkyService - Success on calling the API
+[INFO ] 2021-04-22 15:56:40.243 [scheduling-1] OpenSkyService - Updating information on 17 planes
+[INFO ] 2021-04-22 15:56:40.280 [scheduling-1] OpenSkyService - Updating the database: 0 new planes entering the region
+[INFO ] 2021-04-22 15:56:40.280 [scheduling-1] OpenSkyService - Calling External API
+[INFO ] 2021-04-22 15:57:12.372 [scheduling-1] OpenSkyService - Success on calling the API
+[INFO ] 2021-04-22 15:57:12.373 [scheduling-1] OpenSkyService - Updating information on 20 planes
+[INFO ] 2021-04-22 15:57:12.425 [scheduling-1] OpenSkyService - Updating the database: 2 new planes entering the region
+[INFO ] 2021-04-22 15:57:12.426 [scheduling-1] OpenSkyService - Calling External API
+[INFO ] 2021-04-22 15:57:12.697 [scheduling-1] OpenSkyService - Success on calling the API
+[INFO ] 2021-04-22 15:57:12.698 [scheduling-1] OpenSkyService - Updating information on 20 planes
+[INFO ] 2021-04-22 15:57:12.724 [scheduling-1] OpenSkyService - Updating the database: 0 new planes entering the region
+[INFO ] 2021-04-22 15:57:12.725 [scheduling-1] OpenSkyService - Calling External API
+[INFO ] 2021-04-22 15:57:12.829 [scheduling-1] OpenSkyService - Success on calling the API
+[INFO ] 2021-04-22 15:57:12.830 [scheduling-1] OpenSkyService - Updating information on 20 planes
+[INFO ] 2021-04-22 15:57:12.860 [scheduling-1] OpenSkyService - Updating the database: 0 new planes entering the region
+[INFO ] 2021-04-22 15:57:12.861 [scheduling-1] OpenSkyService - Calling External API
+[INFO ] 2021-04-22 15:57:23.314 [scheduling-1] OpenSkyService - Success on calling the API
+[INFO ] 2021-04-22 15:57:23.314 [scheduling-1] OpenSkyService - Updating information on 22 planes
+[INFO ] 2021-04-22 15:57:23.357 [scheduling-1] OpenSkyService - Updating the database: 4 new planes entering the region
+[INFO ] 2021-04-22 15:57:23.358 [scheduling-1] OpenSkyService - Calling External API
+[INFO ] 2021-04-22 15:58:15.972 [scheduling-1] OpenSkyService - Success on calling the API
+[INFO ] 2021-04-22 15:58:15.972 [scheduling-1] OpenSkyService - Updating information on 21 planes
+[INFO ] 2021-04-22 15:58:16.019 [scheduling-1] OpenSkyService - Updating the database: 1 new planes entering the region
+[INFO ] 2021-04-22 15:58:16.020 [scheduling-1] OpenSkyService - Calling External API
+[INFO ] 2021-04-22 15:58:22.625 [scheduling-1] OpenSkyService - Success on calling the API
+[INFO ] 2021-04-22 15:58:22.625 [scheduling-1] OpenSkyService - Updating information on 21 planes
+[INFO ] 2021-04-22 15:58:22.671 [scheduling-1] OpenSkyService - Updating the database: 0 new planes entering the region
+[INFO ] 2021-04-22 15:58:22.671 [scheduling-1] OpenSkyService - Calling External API
+[INFO ] 2021-04-22 15:58:23.409 [scheduling-1] OpenSkyService - Success on calling the API
+[INFO ] 2021-04-22 15:58:23.409 [scheduling-1] OpenSkyService - Updating information on 21 planes
+[INFO ] 2021-04-22 15:58:23.433 [scheduling-1] OpenSkyService - Updating the database: 0 new planes entering the region
+[INFO ] 2021-04-22 15:58:23.433 [scheduling-1] OpenSkyService - Calling External API
+[INFO ] 2021-04-22 15:58:35.677 [scheduling-1] OpenSkyService - Success on calling the API
+[INFO ] 2021-04-22 15:58:35.677 [scheduling-1] OpenSkyService - Updating information on 20 planes
+[INFO ] 2021-04-22 15:58:35.720 [scheduling-1] OpenSkyService - Updating the database: 0 new planes entering the region
+[INFO ] 2021-04-22 15:58:35.720 [scheduling-1] OpenSkyService - Calling External API
+[INFO ] 2021-04-22 15:58:53.385 [scheduling-1] OpenSkyService - Success on calling the API
+[INFO ] 2021-04-22 15:58:53.385 [scheduling-1] OpenSkyService - Updating information on 19 planes
+[INFO ] 2021-04-22 15:58:53.424 [scheduling-1] OpenSkyService - Updating the database: 0 new planes entering the region
+[INFO ] 2021-04-22 15:58:53.424 [scheduling-1] OpenSkyService - Calling External API
+[INFO ] 2021-04-22 15:58:59.209 [scheduling-1] OpenSkyService - Success on calling the API
+[INFO ] 2021-04-22 15:58:59.209 [scheduling-1] OpenSkyService - Updating information on 19 planes
+[INFO ] 2021-04-22 15:58:59.235 [scheduling-1] OpenSkyService - Updating the database: 0 new planes entering the region
+[INFO ] 2021-04-22 15:58:59.236 [scheduling-1] OpenSkyService - Calling External API
+[INFO ] 2021-04-22 15:59:14.356 [scheduling-1] OpenSkyService - Success on calling the API
+[INFO ] 2021-04-22 15:59:14.356 [scheduling-1] OpenSkyService - Updating information on 22 planes
+[INFO ] 2021-04-22 15:59:14.400 [scheduling-1] OpenSkyService - Updating the database: 3 new planes entering the region
+[INFO ] 2021-04-22 15:59:14.400 [scheduling-1] OpenSkyService - Calling External API
+[INFO ] 2021-04-22 15:59:38.435 [scheduling-1] OpenSkyService - Success on calling the API
+[INFO ] 2021-04-22 15:59:38.435 [scheduling-1] OpenSkyService - Updating information on 24 planes
+[INFO ] 2021-04-22 15:59:38.478 [scheduling-1] OpenSkyService - Updating the database: 2 new planes entering the region
+[INFO ] 2021-04-22 15:59:38.478 [scheduling-1] OpenSkyService - Calling External API
+[INFO ] 2021-04-22 15:59:38.578 [scheduling-1] OpenSkyService - Success on calling the API
+[INFO ] 2021-04-22 15:59:38.578 [scheduling-1] OpenSkyService - Updating information on 24 planes
+[INFO ] 2021-04-22 15:59:38.609 [scheduling-1] OpenSkyService - Updating the database: 0 new planes entering the region
+[INFO ] 2021-04-22 15:59:38.610 [scheduling-1] OpenSkyService - Calling External API
+[INFO ] 2021-04-22 15:59:38.836 [scheduling-1] OpenSkyService - Success on calling the API
+[INFO ] 2021-04-22 15:59:38.836 [scheduling-1] OpenSkyService - Updating information on 24 planes
+[INFO ] 2021-04-22 15:59:38.861 [scheduling-1] OpenSkyService - Updating the database: 0 new planes entering the region
+[INFO ] 2021-04-22 15:59:38.861 [scheduling-1] OpenSkyService - Calling External API
+[INFO ] 2021-04-22 15:59:39.961 [scheduling-1] OpenSkyService - Success on calling the API
+[INFO ] 2021-04-22 15:59:39.961 [scheduling-1] OpenSkyService - Updating information on 24 planes
+[INFO ] 2021-04-22 15:59:39.987 [scheduling-1] OpenSkyService - Updating the database: 0 new planes entering the region
+[INFO ] 2021-04-22 15:59:39.987 [scheduling-1] OpenSkyService - Calling External API
+[INFO ] 2021-04-22 15:59:40.877 [scheduling-1] OpenSkyService - Success on calling the API
+[INFO ] 2021-04-22 15:59:40.877 [scheduling-1] OpenSkyService - Updating information on 24 planes
+[INFO ] 2021-04-22 15:59:40.927 [scheduling-1] OpenSkyService - Updating the database: 0 new planes entering the region
+[INFO ] 2021-04-22 15:59:40.927 [scheduling-1] OpenSkyService - Calling External API
+[INFO ] 2021-04-22 15:59:41.194 [scheduling-1] OpenSkyService - Success on calling the API
+[INFO ] 2021-04-22 15:59:41.194 [scheduling-1] OpenSkyService - Updating information on 24 planes
+[INFO ] 2021-04-22 15:59:41.221 [scheduling-1] OpenSkyService - Updating the database: 0 new planes entering the region
+[INFO ] 2021-04-22 15:59:41.221 [scheduling-1] OpenSkyService - Calling External API
+[INFO ] 2021-04-22 15:59:42.009 [scheduling-1] OpenSkyService - Success on calling the API
+[INFO ] 2021-04-22 15:59:42.009 [scheduling-1] OpenSkyService - Updating information on 24 planes
+[INFO ] 2021-04-22 15:59:42.032 [scheduling-1] OpenSkyService - Updating the database: 0 new planes entering the region
+[INFO ] 2021-04-22 15:59:42.033 [scheduling-1] OpenSkyService - Calling External API
+[INFO ] 2021-04-22 15:59:42.717 [scheduling-1] OpenSkyService - Success on calling the API
+[INFO ] 2021-04-22 15:59:42.718 [scheduling-1] OpenSkyService - Updating information on 24 planes
+[INFO ] 2021-04-22 15:59:42.746 [scheduling-1] OpenSkyService - Updating the database: 0 new planes entering the region
+[INFO ] 2021-04-22 15:59:42.746 [scheduling-1] OpenSkyService - Calling External API
+[INFO ] 2021-04-22 15:59:58.716 [scheduling-1] OpenSkyService - Success on calling the API
+[INFO ] 2021-04-22 15:59:58.717 [scheduling-1] OpenSkyService - Updating information on 24 planes
+[INFO ] 2021-04-22 15:59:58.758 [scheduling-1] OpenSkyService - Updating the database: 0 new planes entering the region
+[INFO ] 2021-04-22 15:59:58.758 [scheduling-1] OpenSkyService - Calling External API
+[INFO ] 2021-04-22 15:59:59.208 [scheduling-1] OpenSkyService - Success on calling the API
+[INFO ] 2021-04-22 15:59:59.208 [scheduling-1] OpenSkyService - Updating information on 24 planes
+[INFO ] 2021-04-22 15:59:59.234 [scheduling-1] OpenSkyService - Updating the database: 0 new planes entering the region
+[INFO ] 2021-04-22 15:59:59.234 [scheduling-1] OpenSkyService - Calling External API
+[INFO ] 2021-04-22 16:00:34.264 [scheduling-1] OpenSkyService - Success on calling the API
+[INFO ] 2021-04-22 16:00:34.264 [scheduling-1] OpenSkyService - Updating information on 26 planes
+[INFO ] 2021-04-22 16:00:34.311 [scheduling-1] OpenSkyService - Updating the database: 1 new planes entering the region
+[INFO ] 2021-04-22 16:00:34.311 [scheduling-1] OpenSkyService - Calling External API
+[INFO ] 2021-04-22 16:00:54.675 [scheduling-1] OpenSkyService - Success on calling the API
+[INFO ] 2021-04-22 16:00:54.675 [scheduling-1] OpenSkyService - Updating information on 26 planes
+[INFO ] 2021-04-22 16:18:00.903 [restartedMain] ProjectbackendApplication - Starting ProjectbackendApplication using Java 15.0.2 on DESKTOP-SGTOE57 with PID 31844 (C:\Users\rafas\OneDrive\Área de Trabalho\TP_ES\open-sky-project\projectbackend\target\classes started by rafas in C:\Users\rafas\OneDrive\Área de Trabalho\TP_ES\open-sky-project\projectbackend)
+[DEBUG] 2021-04-22 16:18:00.923 [restartedMain] ProjectbackendApplication - Running with Spring Boot v2.4.4, Spring v5.3.5
+[INFO ] 2021-04-22 16:18:00.924 [restartedMain] ProjectbackendApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2021-04-22 16:18:07.505 [scheduling-1] OpenSkyService - Calling External API
+[INFO ] 2021-04-22 16:18:07.508 [restartedMain] ProjectbackendApplication - Started ProjectbackendApplication in 7.368 seconds (JVM running for 10.06)
+[INFO ] 2021-04-22 16:18:09.588 [scheduling-1] OpenSkyService - Success on calling the API
+[INFO ] 2021-04-22 16:18:09.588 [scheduling-1] OpenSkyService - Updating information on 27 planes
+[INFO ] 2021-04-22 16:18:10.022 [scheduling-1] OpenSkyService - Updating the database: 11 new planes entering the region
+[INFO ] 2021-04-22 16:19:10.200 [scheduling-1] OpenSkyService - Calling External API
+[INFO ] 2021-04-22 16:19:37.481 [scheduling-1] OpenSkyService - Success on calling the API
+[INFO ] 2021-04-22 16:19:37.481 [scheduling-1] OpenSkyService - Updating information on 24 planes
+[INFO ] 2021-04-22 16:19:37.562 [scheduling-1] OpenSkyService - Updating the database: 3 new planes entering the region
+[INFO ] 2021-04-22 16:26:17.531 [restartedMain] ProjectbackendApplication - Starting ProjectbackendApplication using Java 15.0.2 on DESKTOP-SGTOE57 with PID 9608 (C:\Users\rafas\OneDrive\Área de Trabalho\TP_ES\open-sky-project\projectbackend\target\classes started by rafas in C:\Users\rafas\OneDrive\Área de Trabalho\TP_ES\open-sky-project\projectbackend)
+[DEBUG] 2021-04-22 16:26:17.549 [restartedMain] ProjectbackendApplication - Running with Spring Boot v2.4.4, Spring v5.3.5
+[INFO ] 2021-04-22 16:26:17.550 [restartedMain] ProjectbackendApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2021-04-22 16:26:24.003 [scheduling-1] OpenSkyService - Calling External API
+[INFO ] 2021-04-22 16:26:24.007 [restartedMain] ProjectbackendApplication - Started ProjectbackendApplication in 7.153 seconds (JVM running for 10.035)
+[INFO ] 2021-04-22 16:26:34.167 [scheduling-1] OpenSkyService - Success on calling the API
+[INFO ] 2021-04-22 16:26:34.167 [scheduling-1] OpenSkyService - Updating information on 26 planes
+[INFO ] 2021-04-22 16:26:34.605 [scheduling-1] OpenSkyService - Updating the database: 13 new planes entering the region
