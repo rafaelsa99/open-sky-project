@@ -4,23 +4,33 @@ import io.smallrye.reactive.messaging.kafka.Record;
 import org.eclipse.microprofile.reactive.messaging.Incoming;
 import org.jboss.logging.Logger;
 
+import java.util.ArrayList;
+import java.util.List;
+
 import javax.enterprise.context.ApplicationScoped;
 
 @ApplicationScoped
 public class KafkaConsumer {
     
-    private Collection<Message> messages;
-    private final Logger logger = Logger.getLogger(KafkaConsumer.class);
+    private List<String> events = new ArrayList<>();
+	private List<String> logs = new ArrayList<>();
 
     @Incoming("kafka-in")
-    public List<Message> message(){
-		if(messages != null) {
-			String jsonString = JsonUtility.toJsonString(messages);
-		}
-		logger.info("No messages!");
-		return new ArrayList<>();
+    public void event(String event){
+		events.add(event);
 	}
 
-    
-    }
+	@Incoming("kafka-in-logs")
+    public void log(String log){
+		logs.add(log);
+	}
+
+    public String getEvents(){
+		return JsonUtility.toJsonString(events);
+	}
+
+	public String getLogs(){
+		return JsonUtility.toJsonString(logs);
+	}
+ }
     

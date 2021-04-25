@@ -8,17 +8,22 @@ import javax.ws.rs.Produces;
 import javax.ws.rs.core.MediaType;
 import javax.ws.rs.core.Response;
 
-@Path("/")
-@Consumes(MediaType.APPLICATION_JSON)
-
+@Path("")
 public class KafkaResource {
 
     @Inject
     KafkaConsumer consumer;
     
+    @Path("/events")
     @GET
-    public List<Message> message(){
-        return messages;
+    public String events(){
+        return consumer.getEvents();
+    }
+
+    @Path("/logs")
+    @GET
+    public String logs(){
+        return consumer.getLogs();
     }
    
 }
