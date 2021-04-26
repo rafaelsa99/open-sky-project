@@ -52,7 +52,8 @@ public class OpenSkyService {
 		    planeRepository.saveAll(openSkyStates.getBody().getStatesWithAltitude());
 		    int newPlanes = getHistorySize() - countHistoryBeforeUpdate;
 		    logger.info("Updating the database: " + newPlanes + " new planes entering the region");
-		    kafkaProducer.sendMessage(newPlanes + " new planes entering the region");
+			if(newPlanes > 0)
+		    	kafkaProducer.sendMessage("openskyevents", newPlanes + " new planes entering the region");
 	    }
 	    else
 	    	logger.error("Error while calling the API: " + openSkyStates.getStatusCode().toString());

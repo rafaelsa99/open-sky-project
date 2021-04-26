@@ -5,11 +5,11 @@ import org.apache.logging.log4j.Logger;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.kafka.core.KafkaTemplate;
 import org.springframework.kafka.support.SendResult;
-import org.springframework.stereotype.Service;
+import org.springframework.stereotype.Component;
 import org.springframework.util.concurrent.ListenableFuture;
 import org.springframework.util.concurrent.ListenableFutureCallback;
 
-@Service
+@Component
 public class KafkaProducer {
 
 	private static final String TOPIC = "openskyevents";
@@ -18,7 +18,11 @@ public class KafkaProducer {
 	@Autowired
 	private KafkaTemplate<String, String> kafkaTemplate;
 	
-	public void sendMessage(String message) {
+	public void sendMessage(String topic, String message) {
+        kafkaTemplate.send(topic, message);
+    }
+
+	/*public void sendMessage(String message) {
         
 	    ListenableFuture<SendResult<String, String>> future = 
 	      kafkaTemplate.send(TOPIC, message);
@@ -33,5 +37,5 @@ public class KafkaProducer {
 	        	logger.error("Unable to send message \"" + message + "\"");
 	        }
 	    });
-	}
+	}*/
 }

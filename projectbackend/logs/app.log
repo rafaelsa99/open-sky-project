@@ -707,3 +707,136 @@
 [INFO ] 2021-04-22 16:26:34.167 [scheduling-1] OpenSkyService - Success on calling the API
 [INFO ] 2021-04-22 16:26:34.167 [scheduling-1] OpenSkyService - Updating information on 26 planes
 [INFO ] 2021-04-22 16:26:34.605 [scheduling-1] OpenSkyService - Updating the database: 13 new planes entering the region
+[INFO ] 2021-04-25 16:39:40.997 [restartedMain] ProjectbackendApplication - Starting ProjectbackendApplication using Java 15.0.2 on DESKTOP-SGTOE57 with PID 2032 (C:\Users\rafas\OneDrive\√Årea de Trabalho\TP_ES\open-sky-project\projectbackend\target\classes started by rafas in C:\Users\rafas\OneDrive\√Årea de Trabalho\TP_ES\open-sky-project\projectbackend)
+[DEBUG] 2021-04-25 16:39:41.010 [restartedMain] ProjectbackendApplication - Running with Spring Boot v2.4.4, Spring v5.3.5
+[INFO ] 2021-04-25 16:39:41.011 [restartedMain] ProjectbackendApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2021-04-25 16:39:48.527 [restartedMain] ProjectbackendApplication - Started ProjectbackendApplication in 8.813 seconds (JVM running for 15.683)
+[INFO ] 2021-04-25 16:39:48.528 [scheduling-1] OpenSkyService - Calling External API
+[INFO ] 2021-04-25 16:39:52.097 [scheduling-1] OpenSkyService - Success on calling the API
+[INFO ] 2021-04-25 16:39:52.097 [scheduling-1] OpenSkyService - Updating information on 26 planes
+[INFO ] 2021-04-25 16:39:52.764 [scheduling-1] OpenSkyService - Updating the database: 17 new planes entering the region
+[INFO ] 2021-04-26 00:09:02.558 [main] ProjectbackendApplicationTests - Starting ProjectbackendApplicationTests using Java 15.0.2 on DESKTOP-SGTOE57 with PID 28868 (started by rafas in C:\Users\rafas\OneDrive\¡rea de Trabalho\TP_ES\open-sky-project\projectbackend)
+[DEBUG] 2021-04-26 00:09:02.830 [main] ProjectbackendApplicationTests - Running with Spring Boot v2.4.4, Spring v5.3.5
+[INFO ] 2021-04-26 00:09:02.833 [main] ProjectbackendApplicationTests - No active profile set, falling back to default profiles: default
+[INFO ] 2021-04-26 00:09:33.573 [main] ProjectbackendApplicationTests - Started ProjectbackendApplicationTests in 33.134 seconds (JVM running for 42.199)
+[INFO ] 2021-04-26 00:09:33.702 [scheduling-1] OpenSkyService - Calling External API
+[INFO ] 2021-04-26 00:09:38.306 [scheduling-1] OpenSkyService - Success on calling the API
+[INFO ] 2021-04-26 00:09:38.307 [scheduling-1] OpenSkyService - Updating information on 41 planes
+[INFO ] 2021-04-26 00:09:39.571 [scheduling-1] OpenSkyService - Updating the database: 25 new planes entering the region
+[INFO ] 2021-04-26 00:11:47.067 [restartedMain] ProjectbackendApplication - Starting ProjectbackendApplication using Java 15.0.2 on DESKTOP-SGTOE57 with PID 25808 (C:\Users\rafas\OneDrive\√Årea de Trabalho\TP_ES\open-sky-project\projectbackend\target\classes started by rafas in C:\Users\rafas\OneDrive\√Årea de Trabalho\TP_ES\open-sky-project\projectbackend)
+[DEBUG] 2021-04-26 00:11:47.083 [restartedMain] ProjectbackendApplication - Running with Spring Boot v2.4.4, Spring v5.3.5
+[INFO ] 2021-04-26 00:11:47.086 [restartedMain] ProjectbackendApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2021-04-26 00:11:57.511 [scheduling-1] OpenSkyService - Calling External API
+[INFO ] 2021-04-26 00:11:57.515 [restartedMain] ProjectbackendApplication - Started ProjectbackendApplication in 11.551 seconds (JVM running for 15.896)
+[INFO ] 2021-04-26 00:11:58.884 [scheduling-1] OpenSkyService - Success on calling the API
+[INFO ] 2021-04-26 00:11:58.885 [scheduling-1] OpenSkyService - Updating information on 40 planes
+[INFO ] 2021-04-26 00:11:59.820 [scheduling-1] OpenSkyService - Updating the database: 6 new planes entering the region
+[INFO ] 2021-04-26 00:13:16.069 [main] ProjectbackendApplicationTests - Starting ProjectbackendApplicationTests using Java 15.0.2 on DESKTOP-SGTOE57 with PID 29804 (started by rafas in C:\Users\rafas\OneDrive\¡rea de Trabalho\TP_ES\open-sky-project\projectbackend)
+[DEBUG] 2021-04-26 00:13:16.128 [main] ProjectbackendApplicationTests - Running with Spring Boot v2.4.4, Spring v5.3.5
+[INFO ] 2021-04-26 00:13:16.131 [main] ProjectbackendApplicationTests - No active profile set, falling back to default profiles: default
+[INFO ] 2021-04-26 00:13:42.216 [main] ProjectbackendApplicationTests - Started ProjectbackendApplicationTests in 28.156 seconds (JVM running for 35.916)
+[INFO ] 2021-04-26 00:13:42.256 [scheduling-1] OpenSkyService - Calling External API
+[INFO ] 2021-04-26 00:13:47.899 [scheduling-1] OpenSkyService - Success on calling the API
+[INFO ] 2021-04-26 00:13:47.900 [scheduling-1] OpenSkyService - Updating information on 42 planes
+[INFO ] 2021-04-26 00:13:49.422 [scheduling-1] OpenSkyService - Updating the database: 6 new planes entering the region
+[INFO ] 2021-04-26 00:25:10.770 [main] ProjectbackendApplicationTests - Starting ProjectbackendApplicationTests using Java 15.0.2 on DESKTOP-SGTOE57 with PID 18712 (started by rafas in C:\Users\rafas\OneDrive\¡rea de Trabalho\TP_ES\open-sky-project\projectbackend)
+[DEBUG] 2021-04-26 00:25:10.795 [main] ProjectbackendApplicationTests - Running with Spring Boot v2.4.4, Spring v5.3.5
+[INFO ] 2021-04-26 00:25:10.802 [main] ProjectbackendApplicationTests - No active profile set, falling back to default profiles: default
+[INFO ] 2021-04-26 00:25:40.300 [scheduling-1] OpenSkyService - Calling External API
+[INFO ] 2021-04-26 00:25:40.280 [main] ProjectbackendApplicationTests - Started ProjectbackendApplicationTests in 31.395 seconds (JVM running for 39.916)
+[INFO ] 2021-04-26 00:25:44.356 [scheduling-1] OpenSkyService - Success on calling the API
+[INFO ] 2021-04-26 00:25:44.357 [scheduling-1] OpenSkyService - Updating information on 29 planes
+[INFO ] 2021-04-26 00:25:46.277 [scheduling-1] OpenSkyService - Updating the database: 12 new planes entering the region
+[INFO ] 2021-04-26 01:05:58.728 [main] ProjectbackendApplicationTests - Starting ProjectbackendApplicationTests using Java 15.0.2 on DESKTOP-SGTOE57 with PID 20956 (started by rafas in C:\Users\rafas\OneDrive\¡rea de Trabalho\TP_ES\open-sky-project\projectbackend)
+[DEBUG] 2021-04-26 01:05:58.807 [main] ProjectbackendApplicationTests - Running with Spring Boot v2.4.4, Spring v5.3.5
+[INFO ] 2021-04-26 01:05:58.809 [main] ProjectbackendApplicationTests - No active profile set, falling back to default profiles: default
+[INFO ] 2021-04-26 01:06:19.932 [main] ProjectbackendApplicationTests - Started ProjectbackendApplicationTests in 23.103 seconds (JVM running for 29.329)
+[INFO ] 2021-04-26 01:06:19.961 [scheduling-1] OpenSkyService - Calling External API
+[INFO ] 2021-04-26 01:06:22.850 [scheduling-1] OpenSkyService - Success on calling the API
+[INFO ] 2021-04-26 01:06:22.851 [scheduling-1] OpenSkyService - Updating information on 34 planes
+[INFO ] 2021-04-26 01:06:24.323 [scheduling-1] OpenSkyService - Updating the database: 15 new planes entering the region
+[INFO ] 2021-04-26 01:09:09.877 [restartedMain] ProjectbackendApplication - Starting ProjectbackendApplication using Java 15.0.2 on DESKTOP-SGTOE57 with PID 31004 (C:\Users\rafas\OneDrive\√Årea de Trabalho\TP_ES\open-sky-project\projectbackend\target\classes started by rafas in C:\Users\rafas\OneDrive\√Årea de Trabalho\TP_ES\open-sky-project\projectbackend)
+[DEBUG] 2021-04-26 01:09:09.913 [restartedMain] ProjectbackendApplication - Running with Spring Boot v2.4.4, Spring v5.3.5
+[INFO ] 2021-04-26 01:09:09.913 [restartedMain] ProjectbackendApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2021-04-26 01:09:22.292 [restartedMain] ProjectbackendApplication - Started ProjectbackendApplication in 13.72 seconds (JVM running for 18.696)
+[INFO ] 2021-04-26 01:09:22.289 [scheduling-1] OpenSkyService - Calling External API
+[INFO ] 2021-04-26 01:09:23.676 [scheduling-1] OpenSkyService - Success on calling the API
+[INFO ] 2021-04-26 01:09:23.677 [scheduling-1] OpenSkyService - Updating information on 29 planes
+[INFO ] 2021-04-26 01:09:24.407 [scheduling-1] OpenSkyService - Updating the database: 4 new planes entering the region
+[INFO ] 2021-04-26 01:10:02.200 [main] ProjectbackendApplicationTests - Starting ProjectbackendApplicationTests using Java 15.0.2 on DESKTOP-SGTOE57 with PID 15924 (started by rafas in C:\Users\rafas\OneDrive\¡rea de Trabalho\TP_ES\open-sky-project\projectbackend)
+[DEBUG] 2021-04-26 01:10:02.231 [main] ProjectbackendApplicationTests - Running with Spring Boot v2.4.4, Spring v5.3.5
+[INFO ] 2021-04-26 01:10:02.236 [main] ProjectbackendApplicationTests - No active profile set, falling back to default profiles: default
+[INFO ] 2021-04-26 01:10:37.044 [scheduling-1] OpenSkyService - Calling External API
+[INFO ] 2021-04-26 01:10:37.240 [main] ProjectbackendApplicationTests - Started ProjectbackendApplicationTests in 36.428 seconds (JVM running for 45.113)
+[INFO ] 2021-04-26 01:10:41.992 [scheduling-1] OpenSkyService - Success on calling the API
+[INFO ] 2021-04-26 01:10:41.993 [scheduling-1] OpenSkyService - Updating information on 30 planes
+[INFO ] 2021-04-26 01:10:44.430 [scheduling-1] OpenSkyService - Updating the database: 5 new planes entering the region
+[INFO ] 2021-04-26 03:10:07.829 [main] ProjectbackendApplicationTests - Starting ProjectbackendApplicationTests using Java 15.0.2 on DESKTOP-SGTOE57 with PID 27964 (started by rafas in C:\Users\rafas\OneDrive\¡rea de Trabalho\TP_ES\open-sky-project\projectbackend)
+[DEBUG] 2021-04-26 03:10:07.851 [main] ProjectbackendApplicationTests - Running with Spring Boot v2.4.4, Spring v5.3.5
+[INFO ] 2021-04-26 03:10:07.854 [main] ProjectbackendApplicationTests - No active profile set, falling back to default profiles: default
+[INFO ] 2021-04-26 03:10:23.358 [main] ProjectbackendApplicationTests - Started ProjectbackendApplicationTests in 16.584 seconds (JVM running for 22.934)
+[INFO ] 2021-04-26 03:10:23.390 [scheduling-1] OpenSkyService - Calling External API
+[INFO ] 2021-04-26 03:10:25.269 [scheduling-1] OpenSkyService - Success on calling the API
+[INFO ] 2021-04-26 03:10:25.270 [scheduling-1] OpenSkyService - Updating information on 20 planes
+[INFO ] 2021-04-26 03:10:26.153 [scheduling-1] OpenSkyService - Updating the database: 15 new planes entering the region
+[INFO ] 2021-04-26 03:27:02.837 [main] ProjectbackendApplicationTests - Starting ProjectbackendApplicationTests using Java 15.0.2 on DESKTOP-SGTOE57 with PID 21868 (started by rafas in C:\Users\rafas\OneDrive\¡rea de Trabalho\TP_ES\open-sky-project\projectbackend)
+[DEBUG] 2021-04-26 03:27:02.874 [main] ProjectbackendApplicationTests - Running with Spring Boot v2.4.4, Spring v5.3.5
+[INFO ] 2021-04-26 03:27:02.884 [main] ProjectbackendApplicationTests - No active profile set, falling back to default profiles: default
+[INFO ] 2021-04-26 03:27:35.893 [main] ProjectbackendApplicationTests - Started ProjectbackendApplicationTests in 35.055 seconds (JVM running for 44.534)
+[INFO ] 2021-04-26 03:27:35.929 [scheduling-1] OpenSkyService - Calling External API
+[INFO ] 2021-04-26 03:27:37.998 [scheduling-1] OpenSkyService - Success on calling the API
+[INFO ] 2021-04-26 03:27:37.998 [scheduling-1] OpenSkyService - Updating information on 15 planes
+[INFO ] 2021-04-26 03:27:39.104 [scheduling-1] OpenSkyService - Updating the database: 6 new planes entering the region
+[INFO ] 2021-04-26 03:50:29.646 [main] ProjectbackendApplicationTests - Starting ProjectbackendApplicationTests using Java 15.0.2 on DESKTOP-SGTOE57 with PID 27144 (started by rafas in C:\Users\rafas\OneDrive\¡rea de Trabalho\TP_ES\open-sky-project\projectbackend)
+[DEBUG] 2021-04-26 03:50:29.764 [main] ProjectbackendApplicationTests - Running with Spring Boot v2.4.4, Spring v5.3.5
+[INFO ] 2021-04-26 03:50:29.767 [main] ProjectbackendApplicationTests - No active profile set, falling back to default profiles: default
+[INFO ] 2021-04-26 03:50:56.931 [main] ProjectbackendApplicationTests - Started ProjectbackendApplicationTests in 29.482 seconds (JVM running for 43.011)
+[INFO ] 2021-04-26 03:50:57.065 [scheduling-1] OpenSkyService - Calling External API
+[INFO ] 2021-04-26 03:51:00.815 [scheduling-1] OpenSkyService - Success on calling the API
+[INFO ] 2021-04-26 03:51:00.815 [scheduling-1] OpenSkyService - Updating information on 23 planes
+[INFO ] 2021-04-26 03:51:02.921 [scheduling-1] OpenSkyService - Updating the database: 9 new planes entering the region
+[INFO ] 2021-04-26 03:52:22.842 [restartedMain] ProjectbackendApplication - Starting ProjectbackendApplication using Java 15.0.2 on DESKTOP-SGTOE57 with PID 25728 (C:\Users\rafas\OneDrive\√Årea de Trabalho\TP_ES\open-sky-project\projectbackend\target\classes started by rafas in C:\Users\rafas\OneDrive\√Årea de Trabalho\TP_ES\open-sky-project\projectbackend)
+[DEBUG] 2021-04-26 03:52:22.861 [restartedMain] ProjectbackendApplication - Running with Spring Boot v2.4.4, Spring v5.3.5
+[INFO ] 2021-04-26 03:52:22.862 [restartedMain] ProjectbackendApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2021-04-26 03:52:33.682 [restartedMain] ProjectbackendApplication - Started ProjectbackendApplication in 11.861 seconds (JVM running for 16.145)
+[INFO ] 2021-04-26 03:52:33.751 [scheduling-1] OpenSkyService - Calling External API
+[INFO ] 2021-04-26 03:52:35.543 [scheduling-1] OpenSkyService - Success on calling the API
+[INFO ] 2021-04-26 03:52:35.543 [scheduling-1] OpenSkyService - Updating information on 19 planes
+[INFO ] 2021-04-26 03:52:36.291 [scheduling-1] OpenSkyService - Updating the database: 1 new planes entering the region
+[INFO ] 2021-04-26 03:54:06.971 [restartedMain] ProjectbackendApplication - Starting ProjectbackendApplication using Java 15.0.2 on DESKTOP-SGTOE57 with PID 34636 (C:\Users\rafas\OneDrive\√Årea de Trabalho\TP_ES\open-sky-project\projectbackend\target\classes started by rafas in C:\Users\rafas\OneDrive\√Årea de Trabalho\TP_ES\open-sky-project\projectbackend)
+[DEBUG] 2021-04-26 03:54:07.002 [restartedMain] ProjectbackendApplication - Running with Spring Boot v2.4.4, Spring v5.3.5
+[INFO ] 2021-04-26 03:54:07.003 [restartedMain] ProjectbackendApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2021-04-26 03:54:17.368 [scheduling-1] OpenSkyService - Calling External API
+[INFO ] 2021-04-26 03:54:17.371 [restartedMain] ProjectbackendApplication - Started ProjectbackendApplication in 11.794 seconds (JVM running for 18.142)
+[INFO ] 2021-04-26 03:54:18.704 [scheduling-1] OpenSkyService - Success on calling the API
+[INFO ] 2021-04-26 03:54:18.704 [scheduling-1] OpenSkyService - Updating information on 19 planes
+[INFO ] 2021-04-26 03:54:19.286 [scheduling-1] OpenSkyService - Updating the database: 1 new planes entering the region
+[INFO ] 2021-04-26 03:55:10.797 [main] ProjectbackendApplicationTests - Starting ProjectbackendApplicationTests using Java 15.0.2 on DESKTOP-SGTOE57 with PID 23976 (started by rafas in C:\Users\rafas\OneDrive\¡rea de Trabalho\TP_ES\open-sky-project\projectbackend)
+[DEBUG] 2021-04-26 03:55:10.834 [main] ProjectbackendApplicationTests - Running with Spring Boot v2.4.4, Spring v5.3.5
+[INFO ] 2021-04-26 03:55:10.839 [main] ProjectbackendApplicationTests - No active profile set, falling back to default profiles: default
+[INFO ] 2021-04-26 03:55:23.427 [scheduling-1] OpenSkyService - Calling External API
+[INFO ] 2021-04-26 03:55:24.624 [scheduling-1] OpenSkyService - Success on calling the API
+[INFO ] 2021-04-26 03:55:24.625 [scheduling-1] OpenSkyService - Updating information on 23 planes
+[INFO ] 2021-04-26 03:55:25.331 [scheduling-1] OpenSkyService - Updating the database: 4 new planes entering the region
+[INFO ] 2021-04-26 03:55:38.864 [main] ProjectbackendApplicationTests - Started ProjectbackendApplicationTests in 30.138 seconds (JVM running for 41.327)
+[INFO ] 2021-04-26 03:55:38.866 [scheduling-1] OpenSkyService - Calling External API
+[INFO ] 2021-04-26 03:55:41.615 [scheduling-1] OpenSkyService - Success on calling the API
+[INFO ] 2021-04-26 03:55:41.625 [scheduling-1] OpenSkyService - Updating information on 23 planes
+[INFO ] 2021-04-26 03:55:43.432 [scheduling-1] OpenSkyService - Updating the database: 1 new planes entering the region
+[INFO ] 2021-04-26 03:56:25.457 [scheduling-1] OpenSkyService - Calling External API
+[INFO ] 2021-04-26 03:56:26.235 [scheduling-1] OpenSkyService - Success on calling the API
+[INFO ] 2021-04-26 03:56:26.236 [scheduling-1] OpenSkyService - Updating information on 23 planes
+[INFO ] 2021-04-26 03:56:26.532 [scheduling-1] OpenSkyService - Updating the database: 1 new planes entering the region
+[INFO ] 2021-04-26 03:57:26.703 [scheduling-1] OpenSkyService - Calling External API
+[INFO ] 2021-04-26 03:57:27.406 [scheduling-1] OpenSkyService - Success on calling the API
+[INFO ] 2021-04-26 03:57:27.406 [scheduling-1] OpenSkyService - Updating information on 26 planes
+[INFO ] 2021-04-26 03:57:27.878 [scheduling-1] OpenSkyService - Updating the database: 4 new planes entering the region
+[INFO ] 2021-04-26 03:58:28.094 [scheduling-1] OpenSkyService - Calling External API
+[INFO ] 2021-04-26 03:58:28.852 [scheduling-1] OpenSkyService - Success on calling the API
+[INFO ] 2021-04-26 03:58:28.853 [scheduling-1] OpenSkyService - Updating information on 25 planes
+[INFO ] 2021-04-26 03:58:29.532 [scheduling-1] OpenSkyService - Updating the database: 3 new planes entering the region
+[INFO ] 2021-04-26 07:11:44.342 [main] ProjectbackendApplicationTests - Starting ProjectbackendApplicationTests using Java 15.0.2 on DESKTOP-SGTOE57 with PID 30220 (started by rafas in C:\Users\rafas\OneDrive\¡rea de Trabalho\TP_ES\open-sky-project\projectbackend)
+[DEBUG] 2021-04-26 07:11:44.387 [main] ProjectbackendApplicationTests - Running with Spring Boot v2.4.4, Spring v5.3.5
+[INFO ] 2021-04-26 07:11:44.390 [main] ProjectbackendApplicationTests - No active profile set, falling back to default profiles: default
+[INFO ] 2021-04-26 07:11:53.818 [scheduling-1] OpenSkyService - Calling External API
+[INFO ] 2021-04-26 07:11:53.827 [main] ProjectbackendApplicationTests - Started ProjectbackendApplicationTests in 10.378 seconds (JVM running for 13.718)
