@@ -22,3 +22,8 @@ The project merges all the main concepts and technological solutions address in 
   - Event alarms 
 
 It is deployed using <b>docker</b> containers. <b>Springboot</b> is used for the backend and <b>React</b> for the frontend.
+#### Build and Start
+```
+docker-compose build
+docker-compose up
+```
